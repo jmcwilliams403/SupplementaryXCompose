@@ -1,0 +1,21 @@
+
+<Multi_key> <A> <parenleft>              	: "Ă"   U0102 # LATIN CAPITAL LETTER A WITH BREVE
+<Multi_key> <a> <parenleft>              	: "ă"   U0103 # LATIN SMALL LETTER A WITH BREVE
+<Multi_key> <E> <parenleft>              	: "Ĕ"   U0114 # LATIN CAPITAL LETTER E WITH BREVE
+<Multi_key> <e> <parenleft>              	: "ĕ"   U0115 # LATIN SMALL LETTER E WITH BREVE
+<Multi_key> <I> <parenleft>              	: "Ĭ"   U012C # LATIN CAPITAL LETTER I WITH BREVE
+<Multi_key> <i> <parenleft>              	: "ĭ"   U012D # LATIN SMALL LETTER I WITH BREVE
+<Multi_key> <O> <parenleft>              	: "Ŏ"   U014E # LATIN CAPITAL LETTER O WITH BREVE
+<Multi_key> <o> <parenleft>              	: "ŏ"   U014F # LATIN SMALL LETTER O WITH BREVE
+<Multi_key> <U> <parenleft>              	: "Ŭ"   U016C # LATIN CAPITAL LETTER U WITH BREVE
+<Multi_key> <u> <parenleft>              	: "ŭ"   U016D # LATIN SMALL LETTER U WITH BREVE
+<Multi_key> <G> <parenleft>              	: "Ğ"   U011E # LATIN CAPITAL LETTER G WITH BREVE
+<Multi_key> <g> <parenleft>              	: "ğ"   U011F # LATIN SMALL LETTER G WITH BREVE
+<Multi_key> <parenleft> <U1EA0>      		: "Ặ"   U1EB6 # LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <parenleft> <U1EA1>      		: "ặ"   U1EB7 # LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <U1EA0> <parenleft>      		: "Ặ"   U1EB6 # LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <U1EA1> <parenleft>      		: "ặ"   U1EB7 # LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <parenleft> <U0228>      		: "Ḝ"   U1E1C # LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+<Multi_key> <parenleft> <U0229>      		: "ḝ"   U1E1D # LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+<Multi_key> <U0228> <parenleft>      		: "Ḝ"   U1E1C # LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+<Multi_key> <U0229> <parenleft>      		: "ḝ"   U1E1D # LATIN SMALL LETTER E WITH CEDILLA AND BREVE

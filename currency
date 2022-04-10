@@ -1,0 +1,54 @@
+<Multi_key> <currency> <A> 		      : "₳"   U20B3               # AUSTRAL SIGN
+<Multi_key> <currency> <a> 		      : "؋"   U060B               # AFGHANI SIGN
+<Multi_key> <currency> <B> 		      : "₱"   U20B1               # PESO SIGN
+<Multi_key> <currency> <b> 		      : "฿"   Thai_baht           # THAI CURRENCY SYMBOL BAHT
+<Multi_key> <currency> <Ccedilla> 	  : "₵"   U20B5               # CEDI SIGN
+<Multi_key> <currency> <C> 		      : "₡"   ColonSign           # COLON SIGN
+<Multi_key> <currency> <ccedilla> 	  : "₵"   U20B5               # CEDI SIGN
+<Multi_key> <currency> <c> 		      : "¢"   cent                # CENT SIGN
+<Multi_key> <currency> <D> 		      : "₯"   U20AF               # DRACHMA SIGN
+<Multi_key> <currency> <d> 		      : "₫"   DongSign            # DONG SIGN
+<Multi_key> <currency> <E> 		      : "₠"   EcuSign             # EURO-CURRENCY SIGN
+<Multi_key> <currency> <e> 		      : "€"   EuroSign            # EURO SIGN
+<Multi_key> <currency> <F> 		      : "₣"   FFrancSign          # FRENCH FRANC SIGN
+<Multi_key> <currency> <f> 		      : "ƒ"   function            # LATIN SMALL LETTER F WITH HOOK
+<Multi_key> <currency> <G> 		      : "₲"   U20B2               # GUARANI SIGN
+<Multi_key> <currency> <g> 		      : "₲"   U20B2               # GUARANI SIGN
+<Multi_key> <currency> <H> 		      : "₴"   U20B4               # HRYVNIA SIGN
+<Multi_key> <currency> <h> 		      : "₴"   U20B4               # HRYVNIA SIGN
+<Multi_key> <currency> <I> 		      : "៛"   U17DB               # KHMER CURRENCY SYMBOL RIEL
+<Multi_key> <currency> <i> 		      : "﷼"   UFDFC               # RIAL SIGN
+<Multi_key> <currency> <K> 		      : "₭"   U20AD               # KIP SIGN
+<Multi_key> <currency> <k> 		      : "₭"   U20AD               # KIP SIGN
+<Multi_key> <currency> <L> 		      : "₤"   LiraSign            # LIRA SIGN
+<Multi_key> <currency> <l> 		      : "£"   sterling            # POUND SIGN
+<Multi_key> <currency> <M> 		      : "ℳ"   U2133               # SCRIPT CAPITAL M
+<Multi_key> <currency> <m> 		      : "₥"   MillSign            # MILL SIGN
+<Multi_key> <currency> <N> 		      : "₦"   NairaSign           # NAIRA SIGN
+<Multi_key> <currency> <n> 		      : "₦"   NairaSign           # NAIRA SIGN
+<Multi_key> <currency> <O> 		      : "૱"   U0AF1               # GUJARATI RUPEE SIGN
+<Multi_key> <currency> <o> 		      : "௹"   U0BF9               # TAMIL RUPEE SIGN
+<Multi_key> <currency> <P> 		      : "₧"   PesetaSign          # PESETA SIGN
+<Multi_key> <currency> <p> 		      : "₰"   U20B0               # GERMAN PENNY SIGN
+<Multi_key> <currency> <r> 		      : "₢"   CruzeiroSign        # CRUZEIRO SIGN
+<Multi_key> <currency> <R> 		      : "₨"   RupeeSign           # RUPEE SIGN
+<Multi_key> <currency> <S> 		      : "$"   dollar              # DOLLAR SIGN
+<Multi_key> <currency> <s> 		      : "₪"   NewSheqelSign       # NEW SHEQEL SIGN
+<Multi_key> <currency> <T> 		      : "₮"   U20AE               # TUGRIK SIGN
+<Multi_key> <currency> <t> 		      : "৳"   U09F3               # BENGALI RUPEE SIGN
+<Multi_key> <currency> <THORN> 	      : "৲"   U09F2               # BENGALI RUPEE MARK
+<Multi_key> <currency> <thorn> 	      : "৲"   U09F2               # BENGALI RUPEE MARK
+<Multi_key> <currency> <U> 		      : "圓"   U5713              # YUAN / WEN
+<Multi_key> <currency> <u> 		      : "元"   U5143              # YUAN / WEN
+<Multi_key> <currency> <W> 		      : "₩"   WonSign             # WON SIGN
+<Multi_key> <currency> <w> 		      : "₩"   WonSign             # WON SIGN
+<Multi_key> <currency> <Y> 		      : "円"   U5186              # YEN
+<Multi_key> <currency> <y> 		      : "¥"   yen                 # YEN SIGN
+<Multi_key> <currency> <currency>     : "¤"   currency            # CURRENCY SIGN
+<Multi_key> <currency> <nobreakspace> : "¤"   currency            # CURRENCY SIGN
+<Multi_key> <currency> <space> 	      : "¤"   currency            # CURRENCY SIGN
+
+<Multi_key> <currency> <comma> <C> 	  : "₵"   U20B5               # CEDI SIGN
+<Multi_key> <comma> <currency> <C> 	  : "₵"   U20B5               # CEDI SIGN
+<Multi_key> <currency> <comma> <c> 	  : "₵"   U20B5               # CEDI SIGN
+<Multi_key> <comma> <currency> <c> 	  : "₵"   U20B5               # CEDI SIGN

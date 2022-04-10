@@ -1,0 +1,11 @@
+<Multi_key> <asterisk> <A>             	: "Å"   Aring # LATIN CAPITAL LETTER A WITH RING ABOVE
+<Multi_key> <asterisk> <a>             	: "å"   aring # LATIN SMALL LETTER A WITH RING ABOVE
+<Multi_key> <asterisk> <U>             	: "Ů"   U016E # LATIN CAPITAL LETTER U WITH RING ABOVE
+<Multi_key> <asterisk> <u>             	: "ů"   U016F # LATIN SMALL LETTER U WITH RING ABOVE
+<Multi_key> <asterisk> <w>             	: "ẘ"   U1E98 # LATIN SMALL LETTER W WITH RING ABOVE
+<Multi_key> <asterisk> <y>             	: "ẙ"   U1E99 # LATIN SMALL LETTER Y WITH RING ABOVE
+<Multi_key> <asterisk> <Aacute> 	    : "Ǻ"   U01FA # LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE
+<Multi_key> <asterisk> <aacute> 	    : "ǻ"   U01FB # LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE
+<Multi_key> <asterisk> <asterisk> 		: "°"   degree # DEGREE SIGN
+<Multi_key> <asterisk> <space>         	: "°"   degree # DEGREE SIGN
+<Multi_key> <asterisk> <nobreakspace>   : "°"   degree # DEGREE SIGN

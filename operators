@@ -1,0 +1,40 @@
+<Multi_key> <e> <q>	: "="	U003D # EQUALS SIGN
+<Multi_key> <E> <Q>	: "="	U003D # EQUALS SIGN
+<Multi_key> <g> <t>	: ">"	U003E # GREATER-THAN SIGN
+<Multi_key> <G> <T>	: ">"	U003E # GREATER-THAN SIGN
+<Multi_key> <l> <t>	: "<"	U003C # LESS-THAN SIGN
+<Multi_key> <L> <T>	: "<"	U003C # LESS-THAN SIGN
+<Multi_key> <g> <e>	: "≥"	U2265 # GREATER-THAN OR EQUAL TO
+<Multi_key> <G> <E>	: "≥"	U2265 # GREATER-THAN OR EQUAL TO
+<Multi_key> <l> <e>	: "≤"	U2264 # LESS-THAN OR EQUAL TO
+<Multi_key> <L> <E>	: "≤"	U2264 # LESS-THAN OR EQUAL TO
+<Multi_key> <e> <l>	: "⋜"	U22DC # EQUAL TO OR LESS-THAN
+<Multi_key> <E> <L>	: "⋜"	U22DC # EQUAL TO OR LESS-THAN
+<Multi_key> <e> <g>	: "⋝"	U22DD # EQUAL TO OR GREATER-THAN
+<Multi_key> <E> <G>	: "⋝"	U22DD # EQUAL TO OR GREATER-THAN
+<Multi_key> <g> <g>	: "≫"	U226B # MUCH GREATER-THAN
+<Multi_key> <G> <G>	: "≫"	U226B # MUCH GREATER-THAN
+<Multi_key> <l> <l>	: "≪"	U226A # MUCH LESS-THAN
+<Multi_key> <L> <L>	: "≪"	U226A # MUCH LESS-THAN
+<Multi_key> <g> <l>	: "≷"	U2277 # GREATER-THAN OR LESS-THAN
+<Multi_key> <G> <L>	: "≷"	U2277 # GREATER-THAN OR LESS-THAN
+<Multi_key> <l> <g>	: "≶"	U2276 # LESS-THAN OR GREATER-THAN
+<Multi_key> <L> <G>	: "≶"	U2276 # LESS-THAN OR GREATER-THAN
+<Multi_key> <p> <m>	: "±"	U00B1 # PLUS-MINUS SIGN
+<Multi_key> <P> <M>	: "±"	U00B1 # PLUS-MINUS SIGN
+<Multi_key> <m> <p>	: "∓"	U2213 # MINUS-OR-PLUS SIGN
+<Multi_key> <M> <P>	: "∓"	U2213 # MINUS-OR-PLUS SIGN
+<Multi_key> <t> <o>	: "→"	U2192 # RIGHTWARDS ARROW
+<Multi_key> <T> <O>	: "→"	U2192 # RIGHTWARDS ARROW
+<Multi_key> <o> <t>	: "←"	U2190 # LEFTWARDS ARROW
+<Multi_key> <O> <T>	: "←"	U2190 # LEFTWARDS ARROW
+<Multi_key> <i> <n>	: "∈"	U2208 # ELEMENT OF
+<Multi_key> <I> <N>	: "∈"	U2208 # ELEMENT OF
+<Multi_key> <n> <i>	: "∋"	U220B # CONTAINS AS MEMBER
+<Multi_key> <N> <I>	: "∋"	U220B # CONTAINS AS MEMBER
+<Multi_key> <s> <q>	: "√"	U221A # SQUARE ROOT
+<Multi_key> <S> <Q>	: "√"	U221A # SQUARE ROOT
+<Multi_key> <c> <b>	: "∛"	U221B # CUBE ROOT
+<Multi_key> <C> <B>	: "∛"	U221B # CUBE ROOT
+<Multi_key> <q> <d>	: "∜"	U221C # FOURTH ROOT
+<Multi_key> <Q> <D>	: "∜"	U221C # FOURTH ROOT

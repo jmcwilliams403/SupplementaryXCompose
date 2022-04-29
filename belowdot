@@ -1,0 +1,53 @@
+<Multi_key> <exclam> <A>				: "Ạ"	U1EA0 # LATIN CAPITAL LETTER A WITH DOT BELOW
+<Multi_key> <exclam> <Abreve>			: "Ặ"	U1EB6 # LATIN CAPITAL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <exclam> <Acircumflex>		: "Ậ"	U1EAC # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <B>				: "Ḅ"	U1E04 # LATIN CAPITAL LETTER B WITH DOT BELOW
+<Multi_key> <exclam> <D>				: "Ḍ"	U1E0C # LATIN CAPITAL LETTER D WITH DOT BELOW
+<Multi_key> <exclam> <E>				: "Ẹ"	U1EB8 # LATIN CAPITAL LETTER E WITH DOT BELOW
+<Multi_key> <exclam> <Ecircumflex>		: "Ệ"	U1EC6 # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <H>				: "Ḥ"	U1E24 # LATIN CAPITAL LETTER H WITH DOT BELOW
+<Multi_key> <exclam> <I>				: "Ị"	U1ECA # LATIN CAPITAL LETTER I WITH DOT BELOW
+<Multi_key> <exclam> <K>				: "Ḳ"	U1E32 # LATIN CAPITAL LETTER K WITH DOT BELOW
+<Multi_key> <exclam> <L>				: "Ḷ"	U1E36 # LATIN CAPITAL LETTER L WITH DOT BELOW
+<Multi_key> <exclam> <M>				: "Ṃ"	U1E42 # LATIN CAPITAL LETTER M WITH DOT BELOW
+<Multi_key> <exclam> <N>				: "Ṇ"	U1E46 # LATIN CAPITAL LETTER N WITH DOT BELOW
+<Multi_key> <exclam> <O>				: "Ọ"	U1ECC # LATIN CAPITAL LETTER O WITH DOT BELOW
+<Multi_key> <exclam> <Ocircumflex>		: "Ộ"	U1ED8 # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <Ohorn>			: "Ợ"	U1EE2 # LATIN CAPITAL LETTER O WITH HORN AND DOT BELOW
+<Multi_key> <exclam> <R>				: "Ṛ"	U1E5A # LATIN CAPITAL LETTER R WITH DOT BELOW
+<Multi_key> <exclam> <S>				: "Ṣ"	U1E62 # LATIN CAPITAL LETTER S WITH DOT BELOW
+<Multi_key> <exclam> <Sabovedot>		: "Ṩ"	U1E68 # LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE
+<Multi_key> <exclam> <T>				: "Ṭ"	U1E6C # LATIN CAPITAL LETTER T WITH DOT BELOW
+<Multi_key> <exclam> <U>				: "Ụ"	U1EE4 # LATIN CAPITAL LETTER U WITH DOT BELOW
+<Multi_key> <exclam> <Uhorn>			: "Ự"	U1EF0 # LATIN CAPITAL LETTER U WITH HORN AND DOT BELOW
+<Multi_key> <exclam> <V>				: "Ṿ"	U1E7E # LATIN CAPITAL LETTER V WITH DOT BELOW
+<Multi_key> <exclam> <W>				: "Ẉ"	U1E88 # LATIN CAPITAL LETTER W WITH DOT BELOW
+<Multi_key> <exclam> <Y>				: "Ỵ"	U1EF4 # LATIN CAPITAL LETTER Y WITH DOT BELOW
+<Multi_key> <exclam> <Z>				: "Ẓ"	U1E92 # LATIN CAPITAL LETTER Z WITH DOT BELOW
+<Multi_key> <exclam> <a>				: "ạ"	U1EA1 # LATIN SMALL LETTER A WITH DOT BELOW
+<Multi_key> <exclam> <abreve>			: "ặ"	U1EB7 # LATIN SMALL LETTER A WITH BREVE AND DOT BELOW
+<Multi_key> <exclam> <acircumflex>		: "ậ"	U1EAD # LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <b>				: "ḅ"	U1E05 # LATIN SMALL LETTER B WITH DOT BELOW
+<Multi_key> <exclam> <d>				: "ḍ"	U1E0D # LATIN SMALL LETTER D WITH DOT BELOW
+<Multi_key> <exclam> <e>				: "ẹ"	U1EB9 # LATIN SMALL LETTER E WITH DOT BELOW
+<Multi_key> <exclam> <ecircumflex>		: "ệ"	U1EC7 # LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <h>				: "ḥ"	U1E25 # LATIN SMALL LETTER H WITH DOT BELOW
+<Multi_key> <exclam> <i>				: "ị"	U1ECB # LATIN SMALL LETTER I WITH DOT BELOW
+<Multi_key> <exclam> <k>				: "ḳ"	U1E33 # LATIN SMALL LETTER K WITH DOT BELOW
+<Multi_key> <exclam> <l>				: "ḷ"	U1E37 # LATIN SMALL LETTER L WITH DOT BELOW
+<Multi_key> <exclam> <m>				: "ṃ"	U1E43 # LATIN SMALL LETTER M WITH DOT BELOW
+<Multi_key> <exclam> <n>				: "ṇ"	U1E47 # LATIN SMALL LETTER N WITH DOT BELOW
+<Multi_key> <exclam> <o>				: "ọ"	U1ECD # LATIN SMALL LETTER O WITH DOT BELOW
+<Multi_key> <exclam> <ocircumflex>		: "ộ"	U1ED9 # LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <exclam> <ohorn>			: "ợ"	U1EE3 # LATIN SMALL LETTER O WITH HORN AND DOT BELOW
+<Multi_key> <exclam> <r>				: "ṛ"	U1E5B # LATIN SMALL LETTER R WITH DOT BELOW
+<Multi_key> <exclam> <s>				: "ṣ"	U1E63 # LATIN SMALL LETTER S WITH DOT BELOW
+<Multi_key> <exclam> <sabovedot>		: "ṩ"	U1E69 # LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE
+<Multi_key> <exclam> <t>				: "ṭ"	U1E6D # LATIN SMALL LETTER T WITH DOT BELOW
+<Multi_key> <exclam> <u>				: "ụ"	U1EE5 # LATIN SMALL LETTER U WITH DOT BELOW
+<Multi_key> <exclam> <uhorn>			: "ự"	U1EF1 # LATIN SMALL LETTER U WITH HORN AND DOT BELOW
+<Multi_key> <exclam> <v>				: "ṿ"	U1E7F # LATIN SMALL LETTER V WITH DOT BELOW
+<Multi_key> <exclam> <w>				: "ẉ"	U1E89 # LATIN SMALL LETTER W WITH DOT BELOW
+<Multi_key> <exclam> <y>				: "ỵ"	U1EF5 # LATIN SMALL LETTER Y WITH DOT BELOW
+<Multi_key> <exclam> <z>				: "ẓ"	U1E93 # LATIN SMALL LETTER Z WITH DOT BELOW
+<Multi_key> <exclam> <nobreakspace>		: U0323 # COMBINING DOT BELOW

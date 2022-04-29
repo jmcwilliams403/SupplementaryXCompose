@@ -40,5 +40,5 @@
 <Multi_key> <less> <v>						: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
 <Multi_key> <less> <z>						: "ž"	U017E # LATIN SMALL LETTER Z WITH CARON
 <Multi_key> <less> <ezh>					: "ǯ"	U01EF # LATIN SMALL LETTER EZH WITH CARON
-<Multi_key> <less> <space>				    : "ˇ"	caron # CARON
-<Multi_key> <less> <nobreakspace>	        : U030C # COMBINING CARON
+<Multi_key> <less> <space>				       : "ˇ"	caron # CARON
+<Multi_key> <less> <nobreakspace>	                : U030C # COMBINING CARON

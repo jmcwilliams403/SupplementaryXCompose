@@ -1,0 +1,117 @@
+<Multi_key> <greater> <A>				: "Â"	Acircumflex # LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<Multi_key> <greater> <Aacute>			: "Ấ"	Acircumflexacute # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <Agrave>			: "Ầ"	Acircumflexgrave # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <Ahook>			: "Ẩ"	Acircumflexhook # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <Atilde>			: "Ẫ"	Acircumflextilde # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <C>				: "Ĉ"	U0108 # LATIN CAPITAL LETTER C WITH CIRCUMFLEX
+<Multi_key> <greater> <E>				: "Ê"	Ecircumflex # LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<Multi_key> <greater> <Eacute>			: "Ế"	Ecircumflexacute # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <Egrave>			: "Ề"	Ecircumflexgrave # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <Ehook>			: "Ể"	Ecircumflexhook # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <Etilde>			: "Ễ"	Ecircumflextilde # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <G>				: "Ĝ"	U011C # LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+<Multi_key> <greater> <H>				: "Ĥ"	U0124 # LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+<Multi_key> <greater> <I>				: "Î"	Icircumflex # LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<Multi_key> <greater> <J>				: "Ĵ"	U0134 # LATIN CAPITAL LETTER J WITH CIRCUMFLEX
+<Multi_key> <greater> <O>				: "Ô"	Ocircumflex # LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<Multi_key> <greater> <Oacute>			: "Ố"	Ocircumflexacute # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <Ograve>			: "Ồ"	Ocircumflexgrave # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <Ohook>			: "Ổ"	Ocircumflexhook # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <Otilde>			: "Ỗ"	Ocircumflextilde # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <S>				: "Ŝ"	U015C # LATIN CAPITAL LETTER S WITH CIRCUMFLEX
+<Multi_key> <greater> <U1EA0>			: "Ậ"	U1EAC # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U1EA1>			: "ậ"	U1EAD # LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U1EB8>			: "Ệ"	U1EC6 # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U1EB9>			: "ệ"	U1EC7 # LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U1ECC>			: "Ộ"	U1ED8 # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U1ECD>			: "ộ"	U1ED9 # LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <greater> <U>				: "Û"	Ucircumflex # LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+<Multi_key> <greater> <W>				: "Ŵ"	U0174 # LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+<Multi_key> <greater> <Y>				: "Ŷ"	U0176 # LATIN CAPITAL LETTER Y WITH CIRCUMFLEX
+<Multi_key> <greater> <Z>				: "Ẑ"	U1E90 # LATIN CAPITAL LETTER Z WITH CIRCUMFLEX
+<Multi_key> <greater> <a>				: "â"	acircumflex # LATIN SMALL LETTER A WITH CIRCUMFLEX
+<Multi_key> <greater> <aacute>			: "ấ"	acircumflexacute # LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <agrave>			: "ầ"	acircumflexgrave # LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <ahook>			: "ẩ"	acircumflexhook # LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <atilde>			: "ẫ"	acircumflextilde # LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <c>				: "ĉ"	U0109 # LATIN SMALL LETTER C WITH CIRCUMFLEX
+<Multi_key> <greater> <e>				: "ê"	ecircumflex # LATIN SMALL LETTER E WITH CIRCUMFLEX
+<Multi_key> <greater> <eacute>			: "ế"	ecircumflexacute # LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <egrave>			: "ề"	ecircumflexgrave # LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <ehook>			: "ể"	ecircumflexhook # LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <etilde>			: "ễ"	ecircumflextilde # LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <g>				: "ĝ"	U011D # LATIN SMALL LETTER G WITH CIRCUMFLEX
+<Multi_key> <greater> <h>				: "ĥ"	U0125 # LATIN SMALL LETTER H WITH CIRCUMFLEX
+<Multi_key> <greater> <i>				: "î"	icircumflex # LATIN SMALL LETTER I WITH CIRCUMFLEX
+<Multi_key> <greater> <j>				: "ĵ"	U0135 # LATIN SMALL LETTER J WITH CIRCUMFLEX
+<Multi_key> <greater> <o>				: "ô"	ocircumflex # LATIN SMALL LETTER O WITH CIRCUMFLEX
+<Multi_key> <greater> <oacute>			: "ố"	ocircumflexacute # LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <greater> <ograve>			: "ồ"	ocircumflexgrave # LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <greater> <ohook>			: "ổ"	ocircumflexhook # LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <greater> <otilde>			: "ỗ"	ocircumflextilde # LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+<Multi_key> <greater> <s>				: "ŝ"	U015D # LATIN SMALL LETTER S WITH CIRCUMFLEX
+<Multi_key> <greater> <u>				: "û"	ucircumflex # LATIN SMALL LETTER U WITH CIRCUMFLEX
+<Multi_key> <greater> <w>				: "ŵ"	U0175 # LATIN SMALL LETTER W WITH CIRCUMFLEX
+<Multi_key> <greater> <y>				: "ŷ"	U0177 # LATIN SMALL LETTER Y WITH CIRCUMFLEX
+<Multi_key> <greater> <z>				: "ẑ"	U1E91 # LATIN SMALL LETTER Z WITH CIRCUMFLEX
+<Multi_key> <greater> <space>			: "^"	asciicircum # CIRCUMFLEX ACCENT
+<Multi_key> <greater> <nobreakspace>	: U0302 # COMBINING CIRCUMFLEX ACCENT
+
+<Multi_key> <asciicircum> <A>				: "Â"	Acircumflex # LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Aacute>			: "Ấ"	Acircumflexacute # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <Agrave>			: "Ầ"	Acircumflexgrave # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <Ahook>			: "Ẩ"	Acircumflexhook # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <Atilde>			: "Ẫ"	Acircumflextilde # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <C>				: "Ĉ"	U0108 # LATIN CAPITAL LETTER C WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <E>				: "Ê"	Ecircumflex # LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Eacute>			: "Ế"	Ecircumflexacute # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <Egrave>			: "Ề"	Ecircumflexgrave # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <Ehook>			: "Ể"	Ecircumflexhook # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <Etilde>			: "Ễ"	Ecircumflextilde # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <G>				: "Ĝ"	U011C # LATIN CAPITAL LETTER G WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <H>				: "Ĥ"	U0124 # LATIN CAPITAL LETTER H WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <I>				: "Î"	Icircumflex # LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <J>				: "Ĵ"	U0134 # LATIN CAPITAL LETTER J WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <O>				: "Ô"	Ocircumflex # LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Oacute>			: "Ố"	Ocircumflexacute # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <Ograve>			: "Ồ"	Ocircumflexgrave # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <Ohook>			: "Ổ"	Ocircumflexhook # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <Otilde>			: "Ỗ"	Ocircumflextilde # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <S>				: "Ŝ"	U015C # LATIN CAPITAL LETTER S WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <U1EA0>			: "Ậ"	U1EAC # LATIN CAPITAL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U1EA1>			: "ậ"	U1EAD # LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U1EB8>			: "Ệ"	U1EC6 # LATIN CAPITAL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U1EB9>			: "ệ"	U1EC7 # LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U1ECC>			: "Ộ"	U1ED8 # LATIN CAPITAL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U1ECD>			: "ộ"	U1ED9 # LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW
+<Multi_key> <asciicircum> <U>				: "Û"	Ucircumflex # LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <W>				: "Ŵ"	U0174 # LATIN CAPITAL LETTER W WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Y>				: "Ŷ"	U0176 # LATIN CAPITAL LETTER Y WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <Z>				: "Ẑ"	U1E90 # LATIN CAPITAL LETTER Z WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <a>				: "â"	acircumflex # LATIN SMALL LETTER A WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <aacute>			: "ấ"	acircumflexacute # LATIN SMALL LETTER A WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <agrave>			: "ầ"	acircumflexgrave # LATIN SMALL LETTER A WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <ahook>			: "ẩ"	acircumflexhook # LATIN SMALL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <atilde>			: "ẫ"	acircumflextilde # LATIN SMALL LETTER A WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <c>				: "ĉ"	U0109 # LATIN SMALL LETTER C WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <e>				: "ê"	ecircumflex # LATIN SMALL LETTER E WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <eacute>			: "ế"	ecircumflexacute # LATIN SMALL LETTER E WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <egrave>			: "ề"	ecircumflexgrave # LATIN SMALL LETTER E WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <ehook>			: "ể"	ecircumflexhook # LATIN SMALL LETTER E WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <etilde>			: "ễ"	ecircumflextilde # LATIN SMALL LETTER E WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <g>				: "ĝ"	U011D # LATIN SMALL LETTER G WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <h>				: "ĥ"	U0125 # LATIN SMALL LETTER H WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <i>				: "î"	icircumflex # LATIN SMALL LETTER I WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <j>				: "ĵ"	U0135 # LATIN SMALL LETTER J WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <o>				: "ô"	ocircumflex # LATIN SMALL LETTER O WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <oacute>			: "ố"	ocircumflexacute # LATIN SMALL LETTER O WITH CIRCUMFLEX AND ACUTE
+<Multi_key> <asciicircum> <ograve>			: "ồ"	ocircumflexgrave # LATIN SMALL LETTER O WITH CIRCUMFLEX AND GRAVE
+<Multi_key> <asciicircum> <ohook>			: "ổ"	ocircumflexhook # LATIN SMALL LETTER O WITH CIRCUMFLEX AND HOOK ABOVE
+<Multi_key> <asciicircum> <otilde>			: "ỗ"	ocircumflextilde # LATIN SMALL LETTER O WITH CIRCUMFLEX AND TILDE
+<Multi_key> <asciicircum> <s>				: "ŝ"	U015D # LATIN SMALL LETTER S WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <u>				: "û"	ucircumflex # LATIN SMALL LETTER U WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <w>				: "ŵ"	U0175 # LATIN SMALL LETTER W WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <y>				: "ŷ"	U0177 # LATIN SMALL LETTER Y WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <z>				: "ẑ"	U1E91 # LATIN SMALL LETTER Z WITH CIRCUMFLEX
+<Multi_key> <asciicircum> <space>			: "^"	asciicircum # CIRCUMFLEX ACCENT
+<Multi_key> <asciicircum> <nobreakspace>	: U0302 # COMBINING CIRCUMFLEX ACCENT

@@ -1,0 +1,44 @@
+<Multi_key> <less> <A>						: "Ǎ"	U01CD # LATIN CAPITAL LETTER A WITH CARON
+<Multi_key> <less> <C>						: "Č"	U010C # LATIN CAPITAL LETTER C WITH CARON
+<Multi_key> <less> <D>						: "Ď"	U010E # LATIN CAPITAL LETTER D WITH CARON
+<Multi_key> <less> <U01F2>				: "ǅ"	U01C5 # LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON
+<Multi_key> <less> <E>						: "Ě"	U011A # LATIN CAPITAL LETTER E WITH CARON
+<Multi_key> <less> <G>						: "Ǧ"	U01E6 # LATIN CAPITAL LETTER G WITH CARON
+<Multi_key> <less> <H>						: "Ȟ"	U021E # LATIN CAPITAL LETTER H WITH CARON
+<Multi_key> <less> <I>						: "Ǐ"	U01CF # LATIN CAPITAL LETTER I WITH CARON
+<Multi_key> <less> <K>						: "Ǩ"	U01E8 # LATIN CAPITAL LETTER K WITH CARON
+<Multi_key> <less> <L>						: "Ľ"	U013D # LATIN CAPITAL LETTER L WITH CARON
+<Multi_key> <less> <N>						: "Ň"	U0147 # LATIN CAPITAL LETTER N WITH CARON
+<Multi_key> <less> <O>						: "Ǒ"	U01D1 # LATIN CAPITAL LETTER O WITH CARON
+<Multi_key> <less> <R>						: "Ř"	U0158 # LATIN CAPITAL LETTER R WITH CARON
+<Multi_key> <less> <S>						: "Š"	U0160 # LATIN CAPITAL LETTER S WITH CARON
+<Multi_key> <less> <Sabovedot>		: "Ṧ"	U1E66 # LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
+<Multi_key> <less> <T>						: "Ť"	U0164 # LATIN CAPITAL LETTER T WITH CARON
+<Multi_key> <less> <U>						: "Ǔ"	U01D3 # LATIN CAPITAL LETTER U WITH CARON
+<Multi_key> <less> <Udiaeresis>		: "Ǚ"	U01D9 # LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <V>						: "Ǚ"	U01D9 # LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <Z>						: "Ž"	U017D # LATIN CAPITAL LETTER Z WITH CARON
+<Multi_key> <less> <EZH>					: "Ǯ"	U01EE # LATIN CAPITAL LETTER EZH WITH CARON
+<Multi_key> <less> <a>						: "ǎ"	U01CE # LATIN SMALL LETTER A WITH CARON
+<Multi_key> <less> <c>						: "č"	U010D # LATIN SMALL LETTER C WITH CARON
+<Multi_key> <less> <d>						: "ď"	U010F # LATIN SMALL LETTER D WITH CARON
+<Multi_key> <less> <e>						: "ě"	U011B # LATIN SMALL LETTER E WITH CARON
+<Multi_key> <less> <g>						: "ǧ"	U01E7 # LATIN SMALL LETTER G WITH CARON
+<Multi_key> <less> <h>						: "ȟ"	U021F # LATIN SMALL LETTER H WITH CARON
+<Multi_key> <less> <i>						: "ǐ"	U01D0 # LATIN SMALL LETTER I WITH CARON
+<Multi_key> <less> <j>						: "ǰ"	U01F0 # LATIN SMALL LETTER J WITH CARON
+<Multi_key> <less> <k>						: "ǩ"	U01E9 # LATIN SMALL LETTER K WITH CARON
+<Multi_key> <less> <l>						: "ľ"	U013E # LATIN SMALL LETTER L WITH CARON
+<Multi_key> <less> <n>						: "ň"	U0148 # LATIN SMALL LETTER N WITH CARON
+<Multi_key> <less> <o>						: "ǒ"	U01D2 # LATIN SMALL LETTER O WITH CARON
+<Multi_key> <less> <r>						: "ř"	U0159 # LATIN SMALL LETTER R WITH CARON
+<Multi_key> <less> <s>						: "š"	U0161 # LATIN SMALL LETTER S WITH CARON
+<Multi_key> <less> <sabovedot>		: "ṧ"	U1E67 # LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+<Multi_key> <less> <t>						: "ť"	U0165 # LATIN SMALL LETTER T WITH CARON
+<Multi_key> <less> <u>						: "ǔ"	U01D4 # LATIN SMALL LETTER U WITH CARON
+<Multi_key> <less> <udiaeresis>		: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <v>						: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <z>						: "ž"	U017E # LATIN SMALL LETTER Z WITH CARON
+<Multi_key> <less> <ezh>					: "ǯ"	U01EF # LATIN SMALL LETTER EZH WITH CARON
+<Multi_key> <less> <space>				: "ˇ"	caron # CARON
+<Multi_key> <less> <nobreakspace>	: U030C # COMBINING CARON

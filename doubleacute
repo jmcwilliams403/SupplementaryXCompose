@@ -1,0 +1,18 @@
+<Multi_key> <equal> <O>				: "Ő"	U0150 # LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <O> <equal>				: "Ő"	U0150 # LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <apostrophe> <Oacute>	: "Ő"	U0150 # LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <Oacute> <apostrophe>	: "Ő"	U0150 # LATIN CAPITAL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <equal> <o>				: "ő"	U0151 # LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <o> <equal>				: "ő"	U0151 # LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <apostrophe> <oacute>	: "ő"	U0151 # LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <oacute> <apostrophe>	: "ő"	U0151 # LATIN SMALL LETTER O WITH DOUBLE ACUTE
+<Multi_key> <equal> <U>				: "Ű"	U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <U> <equal>				: "Ű"	U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <apostrophe> <Uacute>	: "Ű"	U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <Uacute> <apostrophe>	: "Ű"	U0170 # LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <equal> <u>				: "ű"	U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <u> <equal>				: "ű"	U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <apostrophe> <uacute>	: "ű"	U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <uacute> <apostrophe>	: "ű"	U0171 # LATIN SMALL LETTER U WITH DOUBLE ACUTE
+<Multi_key> <equal> <space>			: "˝"	U2dd # DOUBLE ACUTE ACCENT
+<Multi_key> <equal> <nobreakspace>	: U030B # COMBINING DOUBLE ACUTE ACCENT

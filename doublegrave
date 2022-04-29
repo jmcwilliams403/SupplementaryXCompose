@@ -1,0 +1,32 @@
+<Multi_key> <grave> <grave> <A>		: "Ȁ" U0200	# LATIN CAPITAL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <grave> <Agrave>		: "Ȁ" U0200	# LATIN CAPITAL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <Agrave> <grave>		: "Ȁ" U0200	# LATIN CAPITAL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <a>		: "ȁ" U0201	# LATIN SMALL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <grave> <agrave>		: "ȁ" U0201	# LATIN SMALL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <agrave> <grave>		: "ȁ" U0201	# LATIN SMALL LETTER A WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <E>		: "Ȅ" U0204	# LATIN CAPITAL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <grave> <Egrave>		: "Ȅ" U0204	# LATIN CAPITAL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <Egrave> <grave>		: "Ȅ" U0204	# LATIN CAPITAL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <e>		: "ȅ" U0205	# LATIN SMALL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <grave> <egrave>		: "ȅ" U0205	# LATIN SMALL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <egrave> <grave>		: "ȅ" U0205	# LATIN SMALL LETTER E WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <I>		: "Ȉ" U0208	# LATIN CAPITAL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <grave> <Igrave>		: "Ȉ" U0208	# LATIN CAPITAL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <Igrave> <grave>		: "Ȉ" U0208	# LATIN CAPITAL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <i>		: "ȉ" U0209	# LATIN SMALL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <grave> <igrave>		: "ȉ" U0209	# LATIN SMALL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <igrave> <grave>		: "ȉ" U0209	# LATIN SMALL LETTER I WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <O>		: "Ȍ" U020C	# LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <grave> <Ograve>		: "Ȍ" U020C	# LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <Ograve> <grave>		: "Ȍ" U020C	# LATIN CAPITAL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <o>		: "ȍ" U020D	# LATIN SMALL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <grave> <ograve>		: "ȍ" U020D	# LATIN SMALL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <ograve> <grave>		: "ȍ" U020D	# LATIN SMALL LETTER O WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <U>		: "Ȕ" U0214	# LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <grave> <Ugrave>		: "Ȕ" U0214	# LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <Ugrave> <grave>		: "Ȕ" U0214	# LATIN CAPITAL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <u>		: "ȕ" U0215	# LATIN SMALL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <grave> <ugrave>		: "ȕ" U0215	# LATIN SMALL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <ugrave> <grave>		: "ȕ" U0215	# LATIN SMALL LETTER U WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <R>		: "Ȑ" U0210	# LATIN CAPITAL LETTER R WITH DOUBLE GRAVE
+<Multi_key> <grave> <grave> <r>		: "ȑ" U0211	# LATIN SMALL LETTER R WITH DOUBLE GRAVE

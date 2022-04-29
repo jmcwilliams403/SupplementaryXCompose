@@ -12,10 +12,10 @@
 <Multi_key> <less> <O>						: "Ǒ"	U01D1 # LATIN CAPITAL LETTER O WITH CARON
 <Multi_key> <less> <R>						: "Ř"	U0158 # LATIN CAPITAL LETTER R WITH CARON
 <Multi_key> <less> <S>						: "Š"	U0160 # LATIN CAPITAL LETTER S WITH CARON
-<Multi_key> <less> <Sabovedot>	  			     : "Ṧ"	U1E66 # LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
+<Multi_key> <less> <Sabovedot>	  			       : "Ṧ"	U1E66 # LATIN CAPITAL LETTER S WITH CARON AND DOT ABOVE
 <Multi_key> <less> <T>						: "Ť"	U0164 # LATIN CAPITAL LETTER T WITH CARON
 <Multi_key> <less> <U>						: "Ǔ"	U01D3 # LATIN CAPITAL LETTER U WITH CARON
-<Multi_key> <less> <Udiaeresis>	  			     : "Ǚ"	U01D9 # LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <Udiaeresis>	  			      : "Ǚ"	U01D9 # LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
 <Multi_key> <less> <V>						: "Ǚ"	U01D9 # LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON
 <Multi_key> <less> <Z>						: "Ž"	U017D # LATIN CAPITAL LETTER Z WITH CARON
 <Multi_key> <less> <EZH>					: "Ǯ"	U01EE # LATIN CAPITAL LETTER EZH WITH CARON
@@ -33,10 +33,10 @@
 <Multi_key> <less> <o>						: "ǒ"	U01D2 # LATIN SMALL LETTER O WITH CARON
 <Multi_key> <less> <r>						: "ř"	U0159 # LATIN SMALL LETTER R WITH CARON
 <Multi_key> <less> <s>						: "š"	U0161 # LATIN SMALL LETTER S WITH CARON
-<Multi_key> <less> <sabovedot>	    		    	: "ṧ"	U1E67 # LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
+<Multi_key> <less> <sabovedot>	    		         	: "ṧ"	U1E67 # LATIN SMALL LETTER S WITH CARON AND DOT ABOVE
 <Multi_key> <less> <t>						: "ť"	U0165 # LATIN SMALL LETTER T WITH CARON
 <Multi_key> <less> <u>						: "ǔ"	U01D4 # LATIN SMALL LETTER U WITH CARON
-<Multi_key> <less> <udiaeresis>	     		    	: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
+<Multi_key> <less> <udiaeresis>	     		        	: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
 <Multi_key> <less> <v>						: "ǚ"	U01DA # LATIN SMALL LETTER U WITH DIAERESIS AND CARON
 <Multi_key> <less> <z>						: "ž"	U017E # LATIN SMALL LETTER Z WITH CARON
 <Multi_key> <less> <ezh>					: "ǯ"	U01EF # LATIN SMALL LETTER EZH WITH CARON

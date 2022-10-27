@@ -1,0 +1,95 @@
+<Multi_key> <grave> <grave> <grave> <space>	: "　"	U3000 # IDEOGRAPHIC SPACE
+<Multi_key> <grave> <grave> <grave> <exclam>	: "！"	UFF01 # FULLWIDTH EXCLAMATION MARK
+<Multi_key> <grave> <grave> <grave> <quotedbl>	: "＂"	UFF02 # FULLWIDTH QUOTATION MARK
+<Multi_key> <grave> <grave> <grave> <numbersign>	: "＃"	UFF03 # FULLWIDTH NUMBER SIGN
+<Multi_key> <grave> <grave> <grave> <dollar>	: "＄"	UFF04 # FULLWIDTH DOLLAR SIGN
+<Multi_key> <grave> <grave> <grave> <percent>	: "％"	UFF05 # FULLWIDTH PERCENT SIGN
+<Multi_key> <grave> <grave> <grave> <ampersand>	: "＆"	UFF06 # FULLWIDTH AMPERSAND
+<Multi_key> <grave> <grave> <grave> <apostrophe>	: "＇"	UFF07 # FULLWIDTH APOSTROPHE
+<Multi_key> <grave> <grave> <grave> <parenleft>	: "（"	UFF08 # FULLWIDTH LEFT PARENTHESIS
+<Multi_key> <grave> <grave> <grave> <parenright>	: "）"	UFF09 # FULLWIDTH RIGHT PARENTHESIS
+<Multi_key> <grave> <grave> <grave> <asterisk>	: "＊"	UFF0A # FULLWIDTH ASTERISK
+<Multi_key> <grave> <grave> <grave> <plus>	: "＋"	UFF0B # FULLWIDTH PLUS
+<Multi_key> <grave> <grave> <grave> <comma>	: "，"	UFF0C # FULLWIDTH COMMA
+<Multi_key> <grave> <grave> <grave> <minus>	: "－"	UFF0D # FULLWIDTH HYPHEN-MINUS
+<Multi_key> <grave> <grave> <grave> <period>	: "．"	UFF0E # FULLWIDTH FULL STOP
+<Multi_key> <grave> <grave> <grave> <slash>	: "／"	UFF0F # FULLWIDTH SOLIDUS
+<Multi_key> <grave> <grave> <grave> <0>	: "０"	UFF10 # FULLWIDTH DIGIT 0
+<Multi_key> <grave> <grave> <grave> <1>	: "１"	UFF11 # FULLWIDTH DIGIT 1
+<Multi_key> <grave> <grave> <grave> <2>	: "２"	UFF12 # FULLWIDTH DIGIT 2
+<Multi_key> <grave> <grave> <grave> <3>	: "３"	UFF13 # FULLWIDTH DIGIT 3
+<Multi_key> <grave> <grave> <grave> <4>	: "４"	UFF14 # FULLWIDTH DIGIT 4
+<Multi_key> <grave> <grave> <grave> <5>	: "５"	UFF15 # FULLWIDTH DIGIT 5
+<Multi_key> <grave> <grave> <grave> <6>	: "６"	UFF16 # FULLWIDTH DIGIT 6
+<Multi_key> <grave> <grave> <grave> <7>	: "７"	UFF17 # FULLWIDTH DIGIT 7
+<Multi_key> <grave> <grave> <grave> <8>	: "８"	UFF18 # FULLWIDTH DIGIT 8
+<Multi_key> <grave> <grave> <grave> <9>	: "９"	UFF19 # FULLWIDTH DIGIT 9
+<Multi_key> <grave> <grave> <grave> <colon>	: "："	UFF1A # FULLWIDTH COLON
+<Multi_key> <grave> <grave> <grave> <semicolon>	: "；"	UFF1B # FULLWIDTH SEMICOLON
+<Multi_key> <grave> <grave> <grave> <less>	: "＜"	UFF1C # FULLWIDTH LESS-THAN SIGN
+<Multi_key> <grave> <grave> <grave> <equal>	: "＝"	UFF1D # FULLWIDTH EQUALS SIGN
+<Multi_key> <grave> <grave> <grave> <greater>	: "＞"	UFF1E # FULLWIDTH GREATER-THAN SIGN
+<Multi_key> <grave> <grave> <grave> <question>	: "？"	UFF1F # FULLWIDTH QUESTION MARK
+<Multi_key> <grave> <grave> <grave> <at>	: "＠"	UFF20 # FULLWIDTH COMMERCIAL AT
+<Multi_key> <grave> <grave> <grave> <A>	: "Ａ"	UFF21 # FULLWIDTH LATIN CAPITAL LETTER A
+<Multi_key> <grave> <grave> <grave> <B>	: "Ｂ"	UFF22 # FULLWIDTH LATIN CAPITAL LETTER B
+<Multi_key> <grave> <grave> <grave> <C>	: "Ｃ"	UFF23 # FULLWIDTH LATIN CAPITAL LETTER C
+<Multi_key> <grave> <grave> <grave> <D>	: "Ｄ"	UFF24 # FULLWIDTH LATIN CAPITAL LETTER D
+<Multi_key> <grave> <grave> <grave> <E>	: "Ｅ"	UFF25 # FULLWIDTH LATIN CAPITAL LETTER E
+<Multi_key> <grave> <grave> <grave> <F>	: "Ｆ"	UFF26 # FULLWIDTH LATIN CAPITAL LETTER F
+<Multi_key> <grave> <grave> <grave> <G>	: "Ｇ"	UFF27 # FULLWIDTH LATIN CAPITAL LETTER G
+<Multi_key> <grave> <grave> <grave> <H>	: "Ｈ"	UFF28 # FULLWIDTH LATIN CAPITAL LETTER H
+<Multi_key> <grave> <grave> <grave> <I>	: "Ｉ"	UFF29 # FULLWIDTH LATIN CAPITAL LETTER I
+<Multi_key> <grave> <grave> <grave> <J>	: "Ｊ"	UFF2A # FULLWIDTH LATIN CAPITAL LETTER J
+<Multi_key> <grave> <grave> <grave> <K>	: "Ｋ"	UFF2B # FULLWIDTH LATIN CAPITAL LETTER K
+<Multi_key> <grave> <grave> <grave> <L>	: "Ｌ"	UFF2C # FULLWIDTH LATIN CAPITAL LETTER L
+<Multi_key> <grave> <grave> <grave> <M>	: "Ｍ"	UFF2D # FULLWIDTH LATIN CAPITAL LETTER M
+<Multi_key> <grave> <grave> <grave> <N>	: "Ｎ"	UFF2E # FULLWIDTH LATIN CAPITAL LETTER N
+<Multi_key> <grave> <grave> <grave> <O>	: "Ｏ"	UFF2F # FULLWIDTH LATIN CAPITAL LETTER O
+<Multi_key> <grave> <grave> <grave> <P>	: "Ｐ"	UFF30 # FULLWIDTH LATIN CAPITAL LETTER P
+<Multi_key> <grave> <grave> <grave> <Q>	: "Ｑ"	UFF31 # FULLWIDTH LATIN CAPITAL LETTER Q
+<Multi_key> <grave> <grave> <grave> <R>	: "Ｒ"	UFF32 # FULLWIDTH LATIN CAPITAL LETTER R
+<Multi_key> <grave> <grave> <grave> <S>	: "Ｓ"	UFF33 # FULLWIDTH LATIN CAPITAL LETTER S
+<Multi_key> <grave> <grave> <grave> <T>	: "Ｔ"	UFF34 # FULLWIDTH LATIN CAPITAL LETTER T
+<Multi_key> <grave> <grave> <grave> <U>	: "Ｕ"	UFF35 # FULLWIDTH LATIN CAPITAL LETTER U
+<Multi_key> <grave> <grave> <grave> <V>	: "Ｖ"	UFF36 # FULLWIDTH LATIN CAPITAL LETTER V
+<Multi_key> <grave> <grave> <grave> <W>	: "Ｗ"	UFF37 # FULLWIDTH LATIN CAPITAL LETTER W
+<Multi_key> <grave> <grave> <grave> <X>	: "Ｘ"	UFF38 # FULLWIDTH LATIN CAPITAL LETTER X
+<Multi_key> <grave> <grave> <grave> <Y>	: "Ｙ"	UFF39 # FULLWIDTH LATIN CAPITAL LETTER Y
+<Multi_key> <grave> <grave> <grave> <Z>	: "Ｚ"	UFF3A # FULLWIDTH LATIN CAPITAL LETTER Z
+<Multi_key> <grave> <grave> <grave> <bracketleft>	: "［"	UFF3B # FULLWIDTH LEFT SQUARE BRACKET
+<Multi_key> <grave> <grave> <grave> <backslash>	: "＼"	UFF3C # FULLWIDTH REVERSE SOLIDUS
+<Multi_key> <grave> <grave> <grave> <bracketright>	: "］"	UFF3D # FULLWIDTH RIGHT SQUARE BRACKET
+<Multi_key> <grave> <grave> <grave> <asciicircum>	: "＾"	UFF3E # FULLWIDTH CIRCUMFLEX ACCENT
+<Multi_key> <grave> <grave> <grave> <underscore>	: "＿"	UFF3F # FULLWIDTH LOW LINE
+<Multi_key> <grave> <grave> <grave> <grave>	: "｀"	UFF40 # FULLWIDTH GRAVE ACCENT
+<Multi_key> <grave> <grave> <grave> <a>	: "ａ"	UFF41 # FULLWIDTH LATIN SMALL LETTER A
+<Multi_key> <grave> <grave> <grave> <b>	: "ｂ"	UFF42 # FULLWIDTH LATIN SMALL LETTER B
+<Multi_key> <grave> <grave> <grave> <c>	: "ｃ"	UFF43 # FULLWIDTH LATIN SMALL LETTER C
+<Multi_key> <grave> <grave> <grave> <d>	: "ｄ"	UFF44 # FULLWIDTH LATIN SMALL LETTER D
+<Multi_key> <grave> <grave> <grave> <e>	: "ｅ"	UFF45 # FULLWIDTH LATIN SMALL LETTER E
+<Multi_key> <grave> <grave> <grave> <f>	: "ｆ"	UFF46 # FULLWIDTH LATIN SMALL LETTER F
+<Multi_key> <grave> <grave> <grave> <g>	: "ｇ"	UFF47 # FULLWIDTH LATIN SMALL LETTER G
+<Multi_key> <grave> <grave> <grave> <h>	: "ｈ"	UFF48 # FULLWIDTH LATIN SMALL LETTER H
+<Multi_key> <grave> <grave> <grave> <i>	: "ｉ"	UFF49 # FULLWIDTH LATIN SMALL LETTER I
+<Multi_key> <grave> <grave> <grave> <j>	: "ｊ"	UFF4A # FULLWIDTH LATIN SMALL LETTER J
+<Multi_key> <grave> <grave> <grave> <k>	: "ｋ"	UFF4B # FULLWIDTH LATIN SMALL LETTER K
+<Multi_key> <grave> <grave> <grave> <l>	: "ｌ"	UFF4C # FULLWIDTH LATIN SMALL LETTER L
+<Multi_key> <grave> <grave> <grave> <m>	: "ｍ"	UFF4D # FULLWIDTH LATIN SMALL LETTER M
+<Multi_key> <grave> <grave> <grave> <n>	: "ｎ"	UFF4E # FULLWIDTH LATIN SMALL LETTER N
+<Multi_key> <grave> <grave> <grave> <o>	: "ｏ"	UFF4F # FULLWIDTH LATIN SMALL LETTER O
+<Multi_key> <grave> <grave> <grave> <p>	: "ｐ"	UFF50 # FULLWIDTH LATIN SMALL LETTER P
+<Multi_key> <grave> <grave> <grave> <q>	: "ｑ"	UFF51 # FULLWIDTH LATIN SMALL LETTER Q
+<Multi_key> <grave> <grave> <grave> <r>	: "ｒ"	UFF52 # FULLWIDTH LATIN SMALL LETTER R
+<Multi_key> <grave> <grave> <grave> <s>	: "ｓ"	UFF53 # FULLWIDTH LATIN SMALL LETTER S
+<Multi_key> <grave> <grave> <grave> <t>	: "ｔ"	UFF54 # FULLWIDTH LATIN SMALL LETTER T
+<Multi_key> <grave> <grave> <grave> <u>	: "ｕ"	UFF55 # FULLWIDTH LATIN SMALL LETTER U
+<Multi_key> <grave> <grave> <grave> <v>	: "ｖ"	UFF56 # FULLWIDTH LATIN SMALL LETTER V
+<Multi_key> <grave> <grave> <grave> <w>	: "ｗ"	UFF57 # FULLWIDTH LATIN SMALL LETTER W
+<Multi_key> <grave> <grave> <grave> <x>	: "ｘ"	UFF58 # FULLWIDTH LATIN SMALL LETTER X
+<Multi_key> <grave> <grave> <grave> <y>	: "ｙ"	UFF59 # FULLWIDTH LATIN SMALL LETTER Y
+<Multi_key> <grave> <grave> <grave> <z>	: "ｚ"	UFF5A # FULLWIDTH LATIN SMALL LETTER Z
+<Multi_key> <grave> <grave> <grave> <braceleft>	: "｛"	UFF5B # FULLWIDTH LEFT CURLY BRACKET
+<Multi_key> <grave> <grave> <grave> <bar>	: "｜"	UFF5C # FULLWIDTH VERTICAL LINE
+<Multi_key> <grave> <grave> <grave> <braceright>	: "｝"	UFF5D # FULLWIDTH RIGHT CURLY BRACKET
+<Multi_key> <grave> <grave> <grave> <asciitilde>	: "～"	UFF5E # FULLWIDTH TILDE

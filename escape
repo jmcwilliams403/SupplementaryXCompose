@@ -1,0 +1,9 @@
+<Multi_key> <backslash> <0>	: "\000"	U0000 # NULL
+<Multi_key> <backslash> <a>	: "\007"	U0007 # BELL
+<Multi_key> <backslash> <b>	: "\010"	U0008 # BACKSPACE
+<Multi_key> <backslash> <t>	: "\011"	U0009 # HORIZONTAL TABULATION
+<Multi_key> <backslash> <n>	: "\012"	U000A # LINE FEED
+<Multi_key> <backslash> <v>	: "\013"	U000B # VERTICAL TABULATION
+<Multi_key> <backslash> <f>	: "\014"	U000C # FORM FEED
+<Multi_key> <backslash> <r>	: "\015"	U000D # CARRIAGE RETURN
+<Multi_key> <backslash> <e>	: "\033"	U001B # ESCAPE

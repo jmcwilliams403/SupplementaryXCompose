@@ -1,303 +1,660 @@
-<Multi_key> <mu> <A>            : "Α"   U0391    # GREEK CAPITAL LETTER ALPHA
-<Multi_key> <mu> <a>            : "α"   U03B1    # GREEK SMALL LETTER ALPHA
-<Multi_key> <mu> <B>            : "Β"   U0392    # GREEK CAPITAL LETTER BETA
-<Multi_key> <mu> <C>			: "Σ"   U03A3    # GREEK CAPITAL LETTER SIGMA
-<Multi_key> <mu> <c>			: "ς"   U03C2    # GREEK SMALL LETTER FINAL SIGMA
-<Multi_key> <mu> <b>            : "β"   U03B2    # GREEK SMALL LETTER BETA
-<Multi_key> <mu> <D>            : "Δ"   U0394    # GREEK CAPITAL LETTER DELTA
-<Multi_key> <mu> <d>            : "δ"   U03B4    # GREEK SMALL LETTER DELTA
-<Multi_key> <mu> <E>            : "Ε"   U0395    # GREEK CAPITAL LETTER EPSILON
-<Multi_key> <mu> <e>            : "ε"   U03B5    # GREEK SMALL LETTER EPSILON
-<Multi_key> <mu> <F>            : "Φ"   U03A6    # GREEK CAPITAL LETTER PHI
-<Multi_key> <mu> <f>            : "φ"   U03C6    # GREEK SMALL LETTER PHI
-<Multi_key> <mu> <G>            : "Γ"   U0393    # GREEK CAPITAL LETTER GAMMA
-<Multi_key> <mu> <g>            : "γ"   U03B3    # GREEK SMALL LETTER GAMMA
-<Multi_key> <mu> <H>            : "Η"   U0397    # GREEK CAPITAL LETTER ETA
-<Multi_key> <mu> <h>            : "η"   U03B7    # GREEK SMALL LETTER ETA
-<Multi_key> <mu> <I>            : "Ι"   U0399    # GREEK CAPITAL LETTER IOTA
-<Multi_key> <mu> <i>            : "ι"   U03B9    # GREEK SMALL LETTER IOTA
-<Multi_key> <mu> <J>            : "Θ"   U0398    # GREEK CAPITAL LETTER THETA
-<Multi_key> <mu> <j>            : "θ"   U03B8    # GREEK SMALL LETTER THETA
-<Multi_key> <mu> <K>            : "Κ"   U039A    # GREEK CAPITAL LETTER KAPPA
-<Multi_key> <mu> <k>            : "κ"   U03BA    # GREEK SMALL LETTER KAPPA
-<Multi_key> <mu> <L>            : "Λ"   U039B    # GREEK CAPITAL LETTER LAMDA
-<Multi_key> <mu> <l>            : "λ"   U03BB    # GREEK SMALL LETTER LAMDA
-<Multi_key> <mu> <M>            : "Μ"   U039C    # GREEK CAPITAL LETTER MU
-<Multi_key> <mu> <m>            : "μ"   U03BC    # GREEK SMALL LETTER MU
-<Multi_key> <mu> <N>            : "Ν"   U039D    # GREEK CAPITAL LETTER NU
-<Multi_key> <mu> <n>            : "ν"   U03BD    # GREEK SMALL LETTER NU
-<Multi_key> <mu> <O>            : "Ο"   U039F    # GREEK CAPITAL LETTER OMICRON
-<Multi_key> <mu> <o>            : "ο"   U03BF    # GREEK SMALL LETTER OMICRON
-<Multi_key> <mu> <P>            : "Π"   U03A0    # GREEK CAPITAL LETTER PI
-<Multi_key> <mu> <p>            : "π"   U03C0    # GREEK SMALL LETTER PI
-<Multi_key> <mu> <Q>            : "Χ"   U03A7    # GREEK CAPITAL LETTER CHI
-<Multi_key> <mu> <q>            : "χ"   U03C7    # GREEK SMALL LETTER CHI
-<Multi_key> <mu> <R>            : "Ρ"   U03A1    # GREEK CAPITAL LETTER RHO
-<Multi_key> <mu> <r>            : "ρ"   U03C1    # GREEK SMALL LETTER RHO
-<Multi_key> <mu> <S>            : "Σ"   U03A3    # GREEK CAPITAL LETTER SIGMA
-<Multi_key> <mu> <s>            : "σ"   U03C3    # GREEK SMALL LETTER SIGMA
-<Multi_key> <mu> <T>            : "Τ"   U03A4    # GREEK CAPITAL LETTER TAU
-<Multi_key> <mu> <t>            : "τ"   U03C4    # GREEK SMALL LETTER TAU
-<Multi_key> <mu> <U>            : "Υ"   U03A5    # GREEK CAPITAL LETTER UPSILON
-<Multi_key> <mu> <u>            : "υ"   U03C5    # GREEK SMALL LETTER UPSILON
-<Multi_key> <mu> <V>			: "Ϋ"	U03AB    # GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA
-<Multi_key> <mu> <v>			: "ϋ"	U03CB    # GREEK SMALL LETTER UPSILON WITH DIALYTIKA
-<Multi_key> <mu> <W>            : "Ω"   U03A9    # GREEK CAPITAL LETTER OMEGA
-<Multi_key> <mu> <w>            : "ω"   U03C9    # GREEK SMALL LETTER OMEGA
-<Multi_key> <mu> <X>            : "Ξ"   U039E    # GREEK CAPITAL LETTER XI
-<Multi_key> <mu> <x>            : "ξ"   U03BE    # GREEK SMALL LETTER XI
-<Multi_key> <mu> <Y>            : "Ψ"   U03A8    # GREEK CAPITAL LETTER PSI
-<Multi_key> <mu> <y>            : "ψ"   U03C8    # GREEK SMALL LETTER PSI
-<Multi_key> <mu> <Z>            : "Ζ"   U0396    # GREEK CAPITAL LETTER ZETA
-<Multi_key> <mu> <z>            : "ζ"   U03B6    # GREEK SMALL LETTER ZETA
-<Multi_key> <mu> <mu>           : "µ"   U00B5    # MICRO SIGN
-<Multi_key> <mu> <nobreakspace> : "µ"   U00B5    # MICRO SIGN
-<Multi_key> <mu> <space>        : "µ"   U00B5    # MICRO SIGN
+<Multi_key> <mu> <A>			: "Α"	U0391 # GREEK CAPITAL LETTER ALPHA
+<Multi_key> <mu> <a>			: "α"	U03B1 # GREEK SMALL LETTER ALPHA
+<Multi_key> <mu> <B>			: "Β"	U0392 # GREEK CAPITAL LETTER BETA
+<Multi_key> <mu> <C>			: "Σ"	U03A3 # GREEK CAPITAL LETTER SIGMA
+<Multi_key> <mu> <c>			: "ς"	U03C2 # GREEK SMALL LETTER FINAL SIGMA
+<Multi_key> <mu> <b>			: "β"	U03B2 # GREEK SMALL LETTER BETA
+<Multi_key> <mu> <D>			: "Δ"	U0394 # GREEK CAPITAL LETTER DELTA
+<Multi_key> <mu> <d>			: "δ"	U03B4 # GREEK SMALL LETTER DELTA
+<Multi_key> <mu> <E>			: "Ε"	U0395 # GREEK CAPITAL LETTER EPSILON
+<Multi_key> <mu> <e>			: "ε"	U03B5 # GREEK SMALL LETTER EPSILON
+<Multi_key> <mu> <F>			: "Φ"	U03A6 # GREEK CAPITAL LETTER PHI
+<Multi_key> <mu> <f>			: "φ"	U03C6 # GREEK SMALL LETTER PHI
+<Multi_key> <mu> <G>			: "Γ"	U0393 # GREEK CAPITAL LETTER GAMMA
+<Multi_key> <mu> <g>			: "γ"	U03B3 # GREEK SMALL LETTER GAMMA
+<Multi_key> <mu> <H>			: "Η"	U0397 # GREEK CAPITAL LETTER ETA
+<Multi_key> <mu> <h>			: "η"	U03B7 # GREEK SMALL LETTER ETA
+<Multi_key> <mu> <I>			: "Ι"	U0399 # GREEK CAPITAL LETTER IOTA
+<Multi_key> <mu> <i>			: "ι"	U03B9 # GREEK SMALL LETTER IOTA
+<Multi_key> <mu> <J>			: "Θ"	U0398 # GREEK CAPITAL LETTER THETA
+<Multi_key> <mu> <j>			: "θ"	U03B8 # GREEK SMALL LETTER THETA
+<Multi_key> <mu> <K>			: "Κ"	U039A # GREEK CAPITAL LETTER KAPPA
+<Multi_key> <mu> <k>			: "κ"	U03BA # GREEK SMALL LETTER KAPPA
+<Multi_key> <mu> <L>			: "Λ"	U039B # GREEK CAPITAL LETTER LAMDA
+<Multi_key> <mu> <l>			: "λ"	U03BB # GREEK SMALL LETTER LAMDA
+<Multi_key> <mu> <M>			: "Μ"	U039C # GREEK CAPITAL LETTER MU
+<Multi_key> <mu> <m>			: "μ"	U03BC # GREEK SMALL LETTER MU
+<Multi_key> <mu> <N>			: "Ν"	U039D # GREEK CAPITAL LETTER NU
+<Multi_key> <mu> <n>			: "ν"	U03BD # GREEK SMALL LETTER NU
+<Multi_key> <mu> <O>			: "Ο"	U039F # GREEK CAPITAL LETTER OMICRON
+<Multi_key> <mu> <o>			: "ο"	U03BF # GREEK SMALL LETTER OMICRON
+<Multi_key> <mu> <P>			: "Π"	U03A0 # GREEK CAPITAL LETTER PI
+<Multi_key> <mu> <p>			: "π"	U03C0 # GREEK SMALL LETTER PI
+<Multi_key> <mu> <Q>			: "Χ"	U03A7 # GREEK CAPITAL LETTER CHI
+<Multi_key> <mu> <q>			: "χ"	U03C7 # GREEK SMALL LETTER CHI
+<Multi_key> <mu> <R>			: "Ρ"	U03A1 # GREEK CAPITAL LETTER RHO
+<Multi_key> <mu> <r>			: "ρ"	U03C1 # GREEK SMALL LETTER RHO
+<Multi_key> <mu> <S>			: "Σ"	U03A3 # GREEK CAPITAL LETTER SIGMA
+<Multi_key> <mu> <s>			: "σ"	U03C3 # GREEK SMALL LETTER SIGMA
+<Multi_key> <mu> <T>			: "Τ"	U03A4 # GREEK CAPITAL LETTER TAU
+<Multi_key> <mu> <t>			: "τ"	U03C4 # GREEK SMALL LETTER TAU
+<Multi_key> <mu> <U>			: "Υ"	U03A5 # GREEK CAPITAL LETTER UPSILON
+<Multi_key> <mu> <u>			: "υ"	U03C5 # GREEK SMALL LETTER UPSILON
+<Multi_key> <mu> <V>			: "Ϝ"	U03DC # GREEK CAPITAL LETTER DIGAMMA
+<Multi_key> <mu> <v>			: "ϝ"	U03DD # GREEK SMALL LETTER DIGAMMA
+<Multi_key> <mu> <W>			: "Ω"	U03A9 # GREEK CAPITAL LETTER OMEGA
+<Multi_key> <mu> <w>			: "ω"	U03C9 # GREEK SMALL LETTER OMEGA
+<Multi_key> <mu> <X>			: "Ξ"	U039E # GREEK CAPITAL LETTER XI
+<Multi_key> <mu> <x>			: "ξ"	U03BE # GREEK SMALL LETTER XI
+<Multi_key> <mu> <Y>			: "Ψ"	U03A8 # GREEK CAPITAL LETTER PSI
+<Multi_key> <mu> <y>			: "ψ"	U03C8 # GREEK SMALL LETTER PSI
+<Multi_key> <mu> <Z>			: "Ζ"	U0396 # GREEK CAPITAL LETTER ZETA
+<Multi_key> <mu> <z>			: "ζ"	U03B6 # GREEK SMALL LETTER ZETA
+<Multi_key> <mu> <mu>			: "µ"	U00B5 # MICRO SIGN
+<Multi_key> <mu> <nobreakspace>	: "µ"	U00B5 # MICRO SIGN
+<Multi_key> <mu> <space>		: "µ"	U00B5 # MICRO SIGN
 
-<Multi_key> <mu> <eth>          : "∂"	U2202    # PARTIAL DIFFERENTIAL
-<Multi_key> <mu> <ETH>          : "∇"	U2207    # NABLA
+<Multi_key> <mu> <eth>			: "∂"	U2202 # PARTIAL DIFFERENTIAL
+<Multi_key> <mu> <ETH>			: "∇"	U2207 # NABLA
 
-<Multi_key> <mu> <7>    		: "ϗ"   U03D7    # GREEK KAI SYMBOL
-<Multi_key> <mu> <ampersand>    : "Ϗ"   U03CF    # GREEK CAPITAL KAI SYMBOL
+<Multi_key> <mu> <ccedilla>		: "ϲ"	U03F2 # GREEK LUNATE SIGMA SYMBOL
+<Multi_key> <mu> <Ccedilla>		: "Ϲ"	U03F9 # GREEK CAPITAL LUNATE SIGMA SYMBOL
 
-<Multi_key> <mu> <Uhook> 						: "ϒ"	U03D2	# GREEK UPSILON WITH HOOK SYMBOL
-<Multi_key> <mu> <Amacron> 						: "Ᾱ"	U1FB9	# GREEK CAPITAL LETTER ALPHA WITH MACRON
-<Multi_key> <mu> <Imacron> 						: "Ῑ"	U1FD9	# GREEK CAPITAL LETTER IOTA WITH MACRON
-<Multi_key> <mu> <Umacron> 						: "Ῡ"	U1FE9	# GREEK CAPITAL LETTER UPSILON WITH MACRON
-<Multi_key> <mu> <amacron> 						: "ᾱ"	U1FB1	# GREEK SMALL LETTER ALPHA WITH MACRON
-<Multi_key> <mu> <imacron> 						: "ῑ"	U1FD1	# GREEK SMALL LETTER IOTA WITH MACRON
-<Multi_key> <mu> <umacron> 						: "ῡ"	U1FE1	# GREEK SMALL LETTER UPSILON WITH MACRON
-<Multi_key> <mu> <U024D> 						: "ϼ"	U03FC	# GREEK RHO WITH STROKE SYMBOL
-<Multi_key> <mu> <U1E0E>						: "⍙"	U2359	# APL FUNCTIONAL SYMBOL DELTA UNDERBAR
-<Multi_key> <mu> <Idiaeresis>					: "Ϊ"	U03AA	# GREEK CAPITAL LETTER IOTA WITH DIALYTIKA
-<Multi_key> <mu> <Udiaeresis>					: "Ϋ"	U03AB	# GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA
-<Multi_key> <mu> <idiaeresis>					: "ϊ"	U03CA	# GREEK SMALL LETTER IOTA WITH DIALYTIKA
-<Multi_key> <mu> <udiaeresis>					: "ϋ"	U03CB	# GREEK SMALL LETTER UPSILON WITH DIALYTIKA
-<Multi_key> <mu> <U1E2F>						: "ΐ"	U0390	# GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <U01D8>						: "ΰ"	U03B0	# GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <Amacron>		: "Ᾱ"	U1FB9 # GREEK CAPITAL LETTER ALPHA WITH MACRON
+<Multi_key> <mu> <amacron>		: "ᾱ"	U1FB1 # GREEK SMALL LETTER ALPHA WITH MACRON
+<Multi_key> <mu> <Imacron>		: "Ῑ"	U1FD9 # GREEK CAPITAL LETTER IOTA WITH MACRON
+<Multi_key> <mu> <imacron>		: "ῑ"	U1FD1 # GREEK SMALL LETTER IOTA WITH MACRON
+<Multi_key> <mu> <Umacron>		: "Ῡ"	U1FE9 # GREEK CAPITAL LETTER UPSILON WITH MACRON
+<Multi_key> <mu> <umacron>		: "ῡ"	U1FE1 # GREEK SMALL LETTER UPSILON WITH MACRON
+<Multi_key> <mu> <Abreve>		: "Ᾰ"	U1FB8 # GREEK CAPITAL LETTER ALPHA WITH VRACHY
+<Multi_key> <mu> <abreve>		: "ᾰ"	U1FB0 # GREEK SMALL LETTER ALPHA WITH VRACHY
+<Multi_key> <mu> <Ibreve>		: "Ῐ"	U1FD8 # GREEK CAPITAL LETTER IOTA WITH VRACHY
+<Multi_key> <mu> <ibreve>		: "ῐ"	U1FD0 # GREEK SMALL LETTER IOTA WITH VRACHY
+<Multi_key> <mu> <Ubreve>		: "Ῠ"	U1FE8 # GREEK CAPITAL LETTER UPSILON WITH VRACHY
+<Multi_key> <mu> <ubreve>		: "ῠ"	U1FE0 # GREEK SMALL LETTER UPSILON WITH VRACHY
+<Multi_key> <mu> <Idiaeresis>	: "Ϊ"	U03AA # GREEK CAPITAL LETTER IOTA WITH DIALYTIKA
+<Multi_key> <mu> <idiaeresis>	: "ϊ"	U03CA # GREEK SMALL LETTER IOTA WITH DIALYTIKA
+<Multi_key> <mu> <Udiaeresis>	: "Ϋ"	U03AB # GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA
+<Multi_key> <mu> <udiaeresis>	: "ϋ"	U03CB # GREEK SMALL LETTER UPSILON WITH DIALYTIKA
+<Multi_key> <mu> <U1E2F>		: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <U01D8>		: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <Uhook>		: "ϒ"	U03D2 # GREEK UPSILON WITH HOOK SYMBOL
+<Multi_key> <mu> <U024D>		: "ϼ"	U03FC # GREEK RHO WITH STROKE SYMBOL
+<Multi_key> <mu> <U1E0E>		: "⍙"	U2359 # APL FUNCTIONAL SYMBOL DELTA UNDERBAR
 
-<Multi_key> <mu> <question> <space>				: ";"	U037E	# GREEK QUESTION MARK
-<Multi_key> <mu> <question> <question>			: "⸵"	U2E35	# TURNED SEMICOLON
-<Multi_key> <mu> <question> <U>					: "ϒ"	U03D2	# GREEK UPSILON WITH HOOK SYMBOL
-<Multi_key> <mu> <questiondown>					: "⸵"	U2E35	# TURNED SEMICOLON
+<Multi_key> <mu> <question> <U>				: "ϒ"	U03D2 # GREEK UPSILON WITH HOOK SYMBOL
+<Multi_key> <mu> <question> <Udiaeresis>	: "ϔ"	U03D4 # GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
+<Multi_key> <mu> <question> <quotedbl> <U>	: "ϔ"	U03D4 # GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
+<Multi_key> <mu> <question> <Uacute>			: "ϓ"	U03D3 # GREEK CAPITAL LETTER UPSILON WITH ACUTE AND HOOK SYMBOL
+<Multi_key> <mu> <question> <apostrophe> <U>	: "ϓ"	U03D3 # GREEK CAPITAL LETTER UPSILON WITH ACUTE AND HOOK SYMBOL
 
-<Multi_key> <mu> <minus> <A> 					: "Ᾱ"	U1FB9	# GREEK CAPITAL LETTER ALPHA WITH MACRON
-<Multi_key> <mu> <minus> <I> 					: "Ῑ"	U1FD9	# GREEK CAPITAL LETTER IOTA WITH MACRON
-<Multi_key> <mu> <minus> <U> 					: "Ῡ"	U1FE9	# GREEK CAPITAL LETTER UPSILON WITH MACRON
-<Multi_key> <mu> <minus> <a> 					: "ᾱ"	U1FB1	# GREEK SMALL LETTER ALPHA WITH MACRON
-<Multi_key> <mu> <minus> <i> 					: "ῑ"	U1FD1	# GREEK SMALL LETTER IOTA WITH MACRON
-<Multi_key> <mu> <minus> <u> 					: "ῡ"	U1FE1	# GREEK SMALL LETTER UPSILON WITH MACRON
+<Multi_key> <mu> <slash> <r>	: "ϼ"	U03FC # GREEK RHO WITH STROKE SYMBOL
 
-<Multi_key> <mu> <slash> <r> 					: "ϼ"	U03FC	# GREEK RHO WITH STROKE SYMBOL
+<Multi_key> <mu> <parenleft> <A>	: "Ᾰ"	U1FB8 # GREEK CAPITAL LETTER ALPHA WITH VRACHY
+<Multi_key> <mu> <parenleft> <a>	: "ᾰ"	U1FB0 # GREEK SMALL LETTER ALPHA WITH VRACHY
+<Multi_key> <mu> <parenleft> <I>	: "Ῐ"	U1FD8 # GREEK CAPITAL LETTER IOTA WITH VRACHY
+<Multi_key> <mu> <parenleft> <i>	: "ῐ"	U1FD0 # GREEK SMALL LETTER IOTA WITH VRACHY
+<Multi_key> <mu> <parenleft> <U>	: "Ῠ"	U1FE8 # GREEK CAPITAL LETTER UPSILON WITH VRACHY
+<Multi_key> <mu> <parenleft> <u>	: "ῠ"	U1FE0 # GREEK SMALL LETTER UPSILON WITH VRACHY
 
-<Multi_key> <mu> <underscore> <D>               : "⍙"	U2359	# APL FUNCTIONAL SYMBOL DELTA UNDERBAR
-<Multi_key> <mu> <underscore> <a>               : "⍶"	U2376	# APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
-<Multi_key> <mu> <underscore> <e>               : "⍷"	U2377	# APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
-<Multi_key> <mu> <underscore> <i>               : "⍸"	U2378	# APL FUNCTIONAL SYMBOL IOTA UNDERBAR
-<Multi_key> <mu> <underscore> <w>               : "⍹"	U2379	# APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
+<Multi_key> <mu> <parenright> <a>							: "ᾶ"	U1FB6 # GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+<Multi_key> <mu> <parenright> <h>							: "ῆ"	U1FC6 # GREEK SMALL LETTER ETA WITH PERISPOMENI
+<Multi_key> <mu> <parenright> <i>							: "ῖ"	U1FD6 # GREEK SMALL LETTER IOTA WITH PERISPOMENI
+<Multi_key> <mu> <parenright> <idiaeresis>					: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <u>							: "ῦ"	U1FE6 # GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+<Multi_key> <mu> <parenright> <udiaeresis>					: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <w>							: "ῶ"	U1FF6 # GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+<Multi_key> <mu> <parenright> <quotedbl> <i>				: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <quotedbl> <u>				: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <A>	: "Ἆ"	U1F0E # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <H>	: "Ἦ"	U1F2E # GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <I>	: "Ἶ"	U1F3E # GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <W>	: "Ὦ"	U1F6E # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <a>	: "ἆ"	U1F06 # GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <h>	: "ἦ"	U1F26 # GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <i>	: "ἶ"	U1F36 # GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <u>	: "ὖ"	U1F56 # GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <parenright> <rightsinglequotemark> <w>	: "ὦ"	U1F66 # GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI
+
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <A>		: "Ἇ"	U1F0F # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <H>		: "Ἧ"	U1F2F # GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <I>		: "Ἷ"	U1F3F # GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <U>		: "Ὗ"	U1F5F # GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <W>		: "Ὧ"	U1F6F # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <a>		: "ἇ"	U1F07 # GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <u>		: "ἧ"	U1F27 # GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <i>		: "ἷ"	U1F37 # GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <u>		: "ὗ"	U1F57 # GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <parenright> <leftsinglequotemark> <w>		: "ὧ"	U1F67 # GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI
+
+
+<Multi_key> <mu> <minus> <A>	: "Ᾱ"	U1FB9	# GREEK CAPITAL LETTER ALPHA WITH MACRON
+<Multi_key> <mu> <minus> <I>	: "Ῑ"	U1FD9	# GREEK CAPITAL LETTER IOTA WITH MACRON
+<Multi_key> <mu> <minus> <U>	: "Ῡ"	U1FE9	# GREEK CAPITAL LETTER UPSILON WITH MACRON
+<Multi_key> <mu> <minus> <a>	: "ᾱ"	U1FB1	# GREEK SMALL LETTER ALPHA WITH MACRON
+<Multi_key> <mu> <minus> <i>	: "ῑ"	U1FD1	# GREEK SMALL LETTER IOTA WITH MACRON
+<Multi_key> <mu> <minus> <u>	: "ῡ"	U1FE1	# GREEK SMALL LETTER UPSILON WITH MACRON
+
+<Multi_key> <mu> <underscore> <D>	: "⍙"	U2359 # APL FUNCTIONAL SYMBOL DELTA UNDERBAR
+<Multi_key> <mu> <underscore> <a>	: "⍶"	U2376 # APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
+<Multi_key> <mu> <underscore> <e>	: "⍷"	U2377 # APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
+<Multi_key> <mu> <underscore> <i>	: "⍸"	U2378 # APL FUNCTIONAL SYMBOL IOTA UNDERBAR
+<Multi_key> <mu> <underscore> <w>	: "⍹"	U2379 # APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
 
 <Multi_key> <mu> <quotedbl> <I>					: "Ϊ"	U03AA # GREEK CAPITAL LETTER IOTA WITH DIALYTIKA
 <Multi_key> <mu> <quotedbl> <U>					: "Ϋ"	U03AB # GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA
+<Multi_key> <mu> <quotedbl> <question> <U>		: "ϔ"	U03D4 # GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL
 <Multi_key> <mu> <quotedbl> <i>					: "ϊ"	U03CA # GREEK SMALL LETTER IOTA WITH DIALYTIKA
 <Multi_key> <mu> <quotedbl> <u>					: "ϋ"	U03CB # GREEK SMALL LETTER UPSILON WITH DIALYTIKA
 <Multi_key> <mu> <quotedbl> <iacute>			: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
 <Multi_key> <mu> <quotedbl> <uacute>			: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
 <Multi_key> <mu> <quotedbl> <apostrophe> <i>	: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
 <Multi_key> <mu> <quotedbl> <apostrophe> <u>	: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <quotedbl> <ETH>				: "⍢"	U2362 # APL FUNCTIONAL SYMBOL DEL DIAERESIS
 
-<Multi_key> <mu> <apostrophe> <A>				: "Ά"	U0386 # GREEK CAPITAL LETTER ALPHA WITH TONOS
-<Multi_key> <mu> <apostrophe> <E>				: "Έ"	U0388 # GREEK CAPITAL LETTER EPSILON WITH TONOS
-<Multi_key> <mu> <apostrophe> <H>				: "Ή"	U0389 # GREEK CAPITAL LETTER ETA WITH TONOS
-<Multi_key> <mu> <apostrophe> <I>				: "Ί"	U038A # GREEK CAPITAL LETTER IOTA WITH TONOS
-<Multi_key> <mu> <apostrophe> <O>				: "Ό"	U038C # GREEK CAPITAL LETTER OMICRON WITH TONOS
-<Multi_key> <mu> <apostrophe> <U>				: "Ύ"	U038E # GREEK CAPITAL LETTER UPSILON WITH TONOS
-<Multi_key> <mu> <apostrophe> <W>				: "Ώ"	U038F # GREEK CAPITAL LETTER OMEGA WITH TONOS
-<Multi_key> <mu> <apostrophe> <a>				: "ά"	U03AC # GREEK SMALL LETTER ALPHA WITH TONOS
-<Multi_key> <mu> <apostrophe> <e>				: "έ"	U03AD # GREEK SMALL LETTER EPSILON WITH TONOS
-<Multi_key> <mu> <apostrophe> <h>				: "ή"	U03AE # GREEK SMALL LETTER ETA WITH TONOS
-<Multi_key> <mu> <apostrophe> <i>				: "ί"	U03AF # GREEK SMALL LETTER IOTA WITH TONOS
-<Multi_key> <mu> <apostrophe> <idiaeresis>		: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <apostrophe> <o>				: "ό"	U03CC # GREEK SMALL LETTER OMICRON WITH TONOS
-<Multi_key> <mu> <apostrophe> <u>				: "ύ"	U03CD # GREEK SMALL LETTER UPSILON WITH TONOS
-<Multi_key> <mu> <apostrophe> <udiaeresis>		: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <apostrophe> <v>				: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <apostrophe> <w>				: "ώ"	U03CE # GREEK SMALL LETTER OMEGA WITH TONOS
-<Multi_key> <mu> <apostrophe> <quotedbl> <i>	: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <apostrophe> <quotedbl> <u>	: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
-<Multi_key> <mu> <apostrophe> <parenright> <A>	: "Ἄ"	U1F0C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <E>	: "Ἔ"	U1F1C # GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <H>	: "Ἤ"	U1F2C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <I>	: "Ἴ"	U1F3C # GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <O>	: "Ὄ"	U1F4C # GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <W>	: "Ὤ"	U1F6C # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <a>	: "ἄ"	U1F04 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <e>	: "ἔ"	U1F14 # GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <h>	: "ἤ"	U1F24 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <i>	: "ἴ"	U1F34 # GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <o>	: "ὄ"	U1F44 # GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <u>	: "ὔ"	U1F54 # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenright> <w>	: "ὤ"	U1F64 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <A>	: "Ἅ"	U1F0D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <E>	: "Ἕ"	U1F1D # GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <H>	: "Ἥ"	U1F2D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <I>	: "Ἵ"	U1F3D # GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <O>	: "Ὅ"	U1F4D # GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <U>	: "Ὕ"	U1F5D # GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <W>	: "Ὥ"	U1F6D # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <a>	: "ἅ"	U1F05 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <e>	: "ἕ"	U1F15 # GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <h>	: "ἥ"	U1F25 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <i>	: "ἵ"	U1F35 # GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <o>	: "ὅ"	U1F45 # GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <u>	: "ὕ"	U1F55 # GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <apostrophe> <parenleft> <w>	: "ὥ"	U1F65 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
 
-<Multi_key> <mu> <grave> <A>					: "Ὰ"	U1FBA # GREEK CAPITAL LETTER ALPHA WITH VARIA
-<Multi_key> <mu> <grave> <E>					: "Ὲ"	U1FC8 # GREEK CAPITAL LETTER EPSILON WITH VARIA
-<Multi_key> <mu> <grave> <H>					: "Ὴ"	U1FCA # GREEK CAPITAL LETTER ETA WITH VARIA
-<Multi_key> <mu> <grave> <I>					: "Ὶ"	U1FDA # GREEK CAPITAL LETTER IOTA WITH VARIA
-<Multi_key> <mu> <grave> <O>					: "Ὸ"	U1FF8 # GREEK CAPITAL LETTER OMICRON WITH VARIA
-<Multi_key> <mu> <grave> <U>					: "Ὺ"	U1FEA # GREEK CAPITAL LETTER UPSILON WITH VARIA
-<Multi_key> <mu> <grave> <W>					: "Ὼ"	U1FFA # GREEK CAPITAL LETTER OMEGA WITH VARIA
-<Multi_key> <mu> <grave> <a>					: "ὰ"	U1F70 # GREEK SMALL LETTER ALPHA WITH VARIA
-<Multi_key> <mu> <grave> <e>					: "ὲ"	U1F72 # GREEK SMALL LETTER EPSILON WITH VARIA
-<Multi_key> <mu> <grave> <h>					: "ὴ"	U1F74 # GREEK SMALL LETTER ETA WITH VARIA
-<Multi_key> <mu> <grave> <i>					: "ὶ"	U1F76 # GREEK SMALL LETTER IOTA WITH VARIA
-<Multi_key> <mu> <grave> <idiaeresis>			: "ῒ"	U1FD2 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
-<Multi_key> <mu> <grave> <o>					: "ὸ"	U1F78 # GREEK SMALL LETTER OMICRON WITH VARIA
-<Multi_key> <mu> <grave> <u>					: "ὺ"	U1F7A # GREEK SMALL LETTER UPSILON WITH VARIA
-<Multi_key> <mu> <grave> <udiaeresis>			: "ῢ"	U1FE2 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
-<Multi_key> <mu> <grave> <v>					: "ῢ"	U1FE2 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
-<Multi_key> <mu> <grave> <w>					: "ὼ"	U1F7C # GREEK SMALL LETTER OMEGA WITH VARIA
-<Multi_key> <mu> <grave> <quotedbl> <i>			: "ῒ"	U1FD2 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
-<Multi_key> <mu> <grave> <quotedbl> <u>			: "ῢ"	U1FE2 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
-<Multi_key> <mu> <grave> <parenright> <A>		: "Ἂ"	U1F0A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <E>		: "Ἒ"	U1F1A # GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <H>		: "Ἢ"	U1F2A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <I>		: "Ἲ"	U1F3A # GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <O>		: "Ὂ"	U1F4A # GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <W>		: "Ὢ"	U1F6A # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <a>		: "ἂ"	U1F02 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <e>		: "ἒ"	U1F12 # GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <h>		: "ἢ"	U1F22 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <i>		: "ἲ"	U1F32 # GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <o>		: "ὂ"	U1F42 # GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <u>		: "ὒ"	U1F52 # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenright> <w>		: "ὢ"	U1F62 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <A>		: "Ἃ"	U1F0B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <E>		: "Ἓ"	U1F1B # GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <H>		: "Ἣ"	U1F2B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <I>		: "Ἳ"	U1F3B # GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <O>		: "Ὃ"	U1F4B # GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <U>		: "Ὓ"	U1F5B # GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <W>		: "Ὣ"	U1F6B # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <a>		: "ἃ"	U1F03 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <e>		: "ἓ"	U1F13 # GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <h>		: "ἣ"	U1F23 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <i>		: "ἳ"	U1F33 # GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <o>		: "ὃ"	U1F43 # GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <u>		: "ὓ"	U1F53 # GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <grave> <parenleft> <w>		: "ὣ"	U1F63 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
+<Multi_key> <mu> <apostrophe> <A>							: "Ά"	U0386 # GREEK CAPITAL LETTER ALPHA WITH TONOS
+<Multi_key> <mu> <apostrophe> <E>							: "Έ"	U0388 # GREEK CAPITAL LETTER EPSILON WITH TONOS
+<Multi_key> <mu> <apostrophe> <H>							: "Ή"	U0389 # GREEK CAPITAL LETTER ETA WITH TONOS
+<Multi_key> <mu> <apostrophe> <I>							: "Ί"	U038A # GREEK CAPITAL LETTER IOTA WITH TONOS
+<Multi_key> <mu> <apostrophe> <O>							: "Ό"	U038C # GREEK CAPITAL LETTER OMICRON WITH TONOS
+<Multi_key> <mu> <apostrophe> <U>							: "Ύ"	U038E # GREEK CAPITAL LETTER UPSILON WITH TONOS
+<Multi_key> <mu> <apostrophe> <W>							: "Ώ"	U038F # GREEK CAPITAL LETTER OMEGA WITH TONOS
+<Multi_key> <mu> <apostrophe> <a>							: "ά"	U03AC # GREEK SMALL LETTER ALPHA WITH TONOS
+<Multi_key> <mu> <apostrophe> <e>							: "έ"	U03AD # GREEK SMALL LETTER EPSILON WITH TONOS
+<Multi_key> <mu> <apostrophe> <h>							: "ή"	U03AE # GREEK SMALL LETTER ETA WITH TONOS
+<Multi_key> <mu> <apostrophe> <i>							: "ί"	U03AF # GREEK SMALL LETTER IOTA WITH TONOS
+<Multi_key> <mu> <apostrophe> <idiaeresis>					: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <apostrophe> <o>							: "ό"	U03CC # GREEK SMALL LETTER OMICRON WITH TONOS
+<Multi_key> <mu> <apostrophe> <u>							: "ύ"	U03CD # GREEK SMALL LETTER UPSILON WITH TONOS
+<Multi_key> <mu> <apostrophe> <udiaeresis>					: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <apostrophe> <w>							: "ώ"	U03CE # GREEK SMALL LETTER OMEGA WITH TONOS
+<Multi_key> <mu> <apostrophe> <quotedbl> <i>				: "ΐ"	U0390 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS
+<Multi_key> <mu> <apostrophe> <quotedbl> <u>				: "ΰ"	U03B0 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS
 
-<Multi_key> <mu> <asciitilde> <a>				: "ᾶ"	U1FB6 # GREEK SMALL LETTER ALPHA WITH PERISPOMENI
-<Multi_key> <mu> <asciitilde> <h>				: "ῆ"	U1FC6 # GREEK SMALL LETTER ETA WITH PERISPOMENI
-<Multi_key> <mu> <asciitilde> <i>				: "ῖ"	U1FD6 # GREEK SMALL LETTER IOTA WITH PERISPOMENI
-<Multi_key> <mu> <asciitilde> <idiaeresis>		: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
-<Multi_key> <mu> <asciitilde> <u>				: "ῦ"	U1FE6 # GREEK SMALL LETTER UPSILON WITH PERISPOMENI
-<Multi_key> <mu> <asciitilde> <udiaeresis>		: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
-<Multi_key> <mu> <asciitilde> <v>				: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
-<Multi_key> <mu> <asciitilde> <w>				: "ῶ"	U1FF6 # GREEK SMALL LETTER OMEGA WITH PERISPOMENI
-<Multi_key> <mu> <asciitilde> <quotedbl> <i>	: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
-<Multi_key> <mu> <asciitilde> <quotedbl> <u>	: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <A>	: "Ἄ"	U1F0C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <E>	: "Ἔ"	U1F1C # GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <H>	: "Ἤ"	U1F2C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <I>	: "Ἴ"	U1F3C # GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <O>	: "Ὄ"	U1F4C # GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <W>	: "Ὤ"	U1F6C # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <a>	: "ἄ"	U1F04 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <e>	: "ἔ"	U1F14 # GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <h>	: "ἤ"	U1F24 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <i>	: "ἴ"	U1F34 # GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <o>	: "ὄ"	U1F44 # GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <u>	: "ὔ"	U1F54 # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <apostrophe> <rightsinglequotemark> <w>	: "ὤ"	U1F64 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
 
-<Multi_key> <mu> <parenright> <A>				: "Ἀ"	U1F08 # GREEK CAPITAL LETTER ALPHA WITH PSILI
-<Multi_key> <mu> <parenright> <E>				: "Ἐ"	U1F18 # GREEK CAPITAL LETTER EPSILON WITH PSILI
-<Multi_key> <mu> <parenright> <H>				: "Ἠ"	U1F28 # GREEK CAPITAL LETTER ETA WITH PSILI
-<Multi_key> <mu> <parenright> <I>				: "Ἰ"	U1F38 # GREEK CAPITAL LETTER IOTA WITH PSILI
-<Multi_key> <mu> <parenright> <O>				: "Ὀ"	U1F48 # GREEK CAPITAL LETTER OMICRON WITH PSILI
-<Multi_key> <mu> <parenright> <W>				: "Ὠ"	U1F68 # GREEK CAPITAL LETTER OMEGA WITH PSILI
-<Multi_key> <mu> <parenright> <a>				: "ἀ"	U1F00 # GREEK SMALL LETTER ALPHA WITH PSILI
-<Multi_key> <mu> <parenright> <e>				: "ἐ"	U1F10 # GREEK SMALL LETTER EPSILON WITH PSILI
-<Multi_key> <mu> <parenright> <h>				: "ἠ"	U1F20 # GREEK SMALL LETTER ETA WITH PSILI
-<Multi_key> <mu> <parenright> <i>				: "ἰ"	U1F30 # GREEK SMALL LETTER IOTA WITH PSILI
-<Multi_key> <mu> <parenright> <o>				: "ὀ"	U1F40 # GREEK SMALL LETTER OMICRON WITH PSILI
-<Multi_key> <mu> <parenright> <r>				: "ῤ"	U1FE4 # GREEK SMALL LETTER RHO WITH PSILI
-<Multi_key> <mu> <parenright> <u>				: "ὐ"	U1F50 # GREEK SMALL LETTER UPSILON WITH PSILI
-<Multi_key> <mu> <parenright> <w>				: "ὠ"	U1F60 # GREEK SMALL LETTER OMEGA WITH PSILI
-<Multi_key> <mu> <parenright> <apostrophe> <A>	: "Ἄ"	U1F0C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <E>	: "Ἔ"	U1F1C # GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <H>	: "Ἤ"	U1F2C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <I>	: "Ἴ"	U1F3C # GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <O>	: "Ὄ"	U1F4C # GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <W>	: "Ὤ"	U1F6C # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <a>	: "ἄ"	U1F04 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <e>	: "ἔ"	U1F14 # GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <h>	: "ἤ"	U1F24 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <i>	: "ἴ"	U1F34 # GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <o>	: "ὄ"	U1F44 # GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <u>	: "ὔ"	U1F54 # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <apostrophe> <w>	: "ὤ"	U1F64 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
-<Multi_key> <mu> <parenright> <grave> <A>		: "Ἂ"	U1F0A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <E>		: "Ἒ"	U1F1A # GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <H>		: "Ἢ"	U1F2A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <I>		: "Ἲ"	U1F3A # GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <O>		: "Ὂ"	U1F4A # GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <W>		: "Ὢ"	U1F6A # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <a>		: "ἂ"	U1F02 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <e>		: "ἒ"	U1F12 # GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <h>		: "ἢ"	U1F22 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <i>		: "ἲ"	U1F32 # GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <o>		: "ὂ"	U1F42 # GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <u>		: "ὒ"	U1F52 # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <grave> <w>		: "ὢ"	U1F62 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
-<Multi_key> <mu> <parenright> <space>			: "᾿"	U1FBF # GREEK PSILI
-<Multi_key> <mu> <parenright> <nobreakspace>	: U0313 # COMBINING COMMA ABOVE
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <A>		: "Ἅ"	U1F0D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <E>		: "Ἕ"	U1F1D # GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <H>		: "Ἥ"	U1F2D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <I>		: "Ἵ"	U1F3D # GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <O>		: "Ὅ"	U1F4D # GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <U>		: "Ὕ"	U1F5D # GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <W>		: "Ὥ"	U1F6D # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <a>		: "ἅ"	U1F05 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <e>		: "ἕ"	U1F15 # GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <h>		: "ἥ"	U1F25 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <i>		: "ἵ"	U1F35 # GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <o>		: "ὅ"	U1F45 # GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <u>		: "ὕ"	U1F55 # GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <apostrophe> <leftsinglequotemark> <w>		: "ὥ"	U1F65 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
 
 
 
-<Multi_key> <mu> <parenleft> <A>				: "Ἁ"	U1F09 # GREEK CAPITAL LETTER ALPHA WITH DASIA
-<Multi_key> <mu> <parenleft> <E>				: "Ἑ"	U1F19 # GREEK CAPITAL LETTER EPSILON WITH DASIA
-<Multi_key> <mu> <parenleft> <H>				: "Ἡ"	U1F29 # GREEK CAPITAL LETTER ETA WITH DASIA
-<Multi_key> <mu> <parenleft> <I>				: "Ἱ"	U1F39 # GREEK CAPITAL LETTER IOTA WITH DASIA
-<Multi_key> <mu> <parenleft> <O>				: "Ὁ"	U1F49 # GREEK CAPITAL LETTER OMICRON WITH DASIA
-<Multi_key> <mu> <parenleft> <R>				: "Ῥ"	U1FEC # GREEK CAPITAL LETTER RHO WITH DASIA
-<Multi_key> <mu> <parenleft> <U>				: "Ὑ"	U1F59 # GREEK CAPITAL LETTER UPSILON WITH DASIA
-<Multi_key> <mu> <parenleft> <W>				: "Ὡ"	U1F69 # GREEK CAPITAL LETTER OMEGA WITH DASIA
-<Multi_key> <mu> <parenleft> <a>				: "ἁ"	U1F01 # GREEK SMALL LETTER ALPHA WITH DASIA
-<Multi_key> <mu> <parenleft> <e>				: "ἑ"	U1F11 # GREEK SMALL LETTER EPSILON WITH DASIA
-<Multi_key> <mu> <parenleft> <h>				: "ἡ"	U1F21 # GREEK SMALL LETTER ETA WITH DASIA
-<Multi_key> <mu> <parenleft> <i>				: "ἱ"	U1F31 # GREEK SMALL LETTER IOTA WITH DASIA
-<Multi_key> <mu> <parenleft> <o>				: "ὁ"	U1F41 # GREEK SMALL LETTER OMICRON WITH DASIA
-<Multi_key> <mu> <parenleft> <r>				: "ῥ"	U1FE5 # GREEK SMALL LETTER RHO WITH DASIA
-<Multi_key> <mu> <parenleft> <u>				: "ὑ"	U1F51 # GREEK SMALL LETTER UPSILON WITH DASIA
-<Multi_key> <mu> <parenleft> <w>				: "ὡ"	U1F61 # GREEK SMALL LETTER OMEGA WITH DASIA
-<Multi_key> <mu> <parenleft> <apostrophe> <A>	: "Ἅ"	U1F0D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <E>	: "Ἕ"	U1F1D # GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <H>	: "Ἥ"	U1F2D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <I>	: "Ἵ"	U1F3D # GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <O>	: "Ὅ"	U1F4D # GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <U>	: "Ὕ"	U1F5D # GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <W>	: "Ὥ"	U1F6D # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <a>	: "ἅ"	U1F05 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <e>	: "ἕ"	U1F15 # GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <h>	: "ἥ"	U1F25 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <i>	: "ἵ"	U1F35 # GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <o>	: "ὅ"	U1F45 # GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <u>	: "ὕ"	U1F55 # GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <apostrophe> <w>	: "ὥ"	U1F65 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
-<Multi_key> <mu> <parenleft> <grave> <A>		: "Ἃ"	U1F0B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <E>		: "Ἓ"	U1F1B # GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <H>		: "Ἣ"	U1F2B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <I>		: "Ἳ"	U1F3B # GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <O>		: "Ὃ"	U1F4B # GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <U>		: "Ὓ"	U1F5B # GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <W>		: "Ὣ"	U1F6B # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <a>		: "ἃ"	U1F03 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <e>		: "ἓ"	U1F13 # GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <h>		: "ἣ"	U1F23 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <i>		: "ἳ"	U1F33 # GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <o>		: "ὃ"	U1F43 # GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <u>		: "ὓ"	U1F53 # GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <grave> <w>		: "ὣ"	U1F63 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
-<Multi_key> <mu> <parenleft> <space>			: "῾"	U1FFE # GREEK DASIA
-<Multi_key> <mu> <parenleft> <nobreakspace>		: U0314 # COMBINING REVERSED COMMA ABOVE
+<Multi_key> <mu> <grave> <A>							: "Ὰ"	U1FBA # GREEK CAPITAL LETTER ALPHA WITH VARIA
+<Multi_key> <mu> <grave> <E>							: "Ὲ"	U1FC8 # GREEK CAPITAL LETTER EPSILON WITH VARIA
+<Multi_key> <mu> <grave> <H>							: "Ὴ"	U1FCA # GREEK CAPITAL LETTER ETA WITH VARIA
+<Multi_key> <mu> <grave> <I>							: "Ὶ"	U1FDA # GREEK CAPITAL LETTER IOTA WITH VARIA
+<Multi_key> <mu> <grave> <O>							: "Ὸ"	U1FF8 # GREEK CAPITAL LETTER OMICRON WITH VARIA
+<Multi_key> <mu> <grave> <U>							: "Ὺ"	U1FEA # GREEK CAPITAL LETTER UPSILON WITH VARIA
+<Multi_key> <mu> <grave> <W>							: "Ὼ"	U1FFA # GREEK CAPITAL LETTER OMEGA WITH VARIA
+<Multi_key> <mu> <grave> <a>							: "ὰ"	U1F70 # GREEK SMALL LETTER ALPHA WITH VARIA
+<Multi_key> <mu> <grave> <e>							: "ὲ"	U1F72 # GREEK SMALL LETTER EPSILON WITH VARIA
+<Multi_key> <mu> <grave> <h>							: "ὴ"	U1F74 # GREEK SMALL LETTER ETA WITH VARIA
+<Multi_key> <mu> <grave> <i>							: "ὶ"	U1F76 # GREEK SMALL LETTER IOTA WITH VARIA
+<Multi_key> <mu> <grave> <idiaeresis>					: "ῒ"	U1FD2 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
+<Multi_key> <mu> <grave> <o>							: "ὸ"	U1F78 # GREEK SMALL LETTER OMICRON WITH VARIA
+<Multi_key> <mu> <grave> <u>							: "ὺ"	U1F7A # GREEK SMALL LETTER UPSILON WITH VARIA
+<Multi_key> <mu> <grave> <udiaeresis>					: "ῢ"	U1FE2 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
+<Multi_key> <mu> <grave> <w>							: "ὼ"	U1F7C # GREEK SMALL LETTER OMEGA WITH VARIA
+<Multi_key> <mu> <grave> <quotedbl> <i>					: "ῒ"	U1FD2 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA
+<Multi_key> <mu> <grave> <quotedbl> <u>					: "ῢ"	U1FE2 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA
+
+<Multi_key> <mu> <grave> <rightsinglequotemark> <A>		: "Ἂ"	U1F0A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <E>		: "Ἒ"	U1F1A # GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <H>		: "Ἢ"	U1F2A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <I>		: "Ἲ"	U1F3A # GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <O>		: "Ὂ"	U1F4A # GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <W>		: "Ὢ"	U1F6A # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <a>		: "ἂ"	U1F02 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <e>		: "ἒ"	U1F12 # GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <h>		: "ἢ"	U1F22 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <i>		: "ἲ"	U1F32 # GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <o>		: "ὂ"	U1F42 # GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <u>		: "ὒ"	U1F52 # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <grave> <rightsinglequotemark> <w>		: "ὢ"	U1F62 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
+
+<Multi_key> <mu> <grave> <leftsinglequotemark> <A>		: "Ἃ"	U1F0B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <E>		: "Ἓ"	U1F1B # GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <H>		: "Ἣ"	U1F2B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <I>		: "Ἳ"	U1F3B # GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <O>		: "Ὃ"	U1F4B # GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <U>		: "Ὓ"	U1F5B # GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <W>		: "Ὣ"	U1F6B # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <a>		: "ἃ"	U1F03 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <e>		: "ἓ"	U1F13 # GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <h>		: "ἣ"	U1F23 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <i>		: "ἳ"	U1F33 # GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <o>		: "ὃ"	U1F43 # GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <u>		: "ὓ"	U1F53 # GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <grave> <leftsinglequotemark> <w>		: "ὣ"	U1F63 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
+
+
+
+<Multi_key> <mu> <rightsinglequotemark> <A>					: "Ἀ"	U1F08 # GREEK CAPITAL LETTER ALPHA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <E>					: "Ἐ"	U1F18 # GREEK CAPITAL LETTER EPSILON WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <H>					: "Ἠ"	U1F28 # GREEK CAPITAL LETTER ETA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <I>					: "Ἰ"	U1F38 # GREEK CAPITAL LETTER IOTA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <O>					: "Ὀ"	U1F48 # GREEK CAPITAL LETTER OMICRON WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <W>					: "Ὠ"	U1F68 # GREEK CAPITAL LETTER OMEGA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <a>					: "ἀ"	U1F00 # GREEK SMALL LETTER ALPHA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <e>					: "ἐ"	U1F10 # GREEK SMALL LETTER EPSILON WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <h>					: "ἠ"	U1F20 # GREEK SMALL LETTER ETA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <i>					: "ἰ"	U1F30 # GREEK SMALL LETTER IOTA WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <o>					: "ὀ"	U1F40 # GREEK SMALL LETTER OMICRON WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <r>					: "ῤ"	U1FE4 # GREEK SMALL LETTER RHO WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <u>					: "ὐ"	U1F50 # GREEK SMALL LETTER UPSILON WITH PSILI
+<Multi_key> <mu> <rightsinglequotemark> <w>					: "ὠ"	U1F60 # GREEK SMALL LETTER OMEGA WITH PSILI
+
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <A>	: "Ἄ"	U1F0C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <E>	: "Ἔ"	U1F1C # GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <H>	: "Ἤ"	U1F2C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <I>	: "Ἴ"	U1F3C # GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <O>	: "Ὄ"	U1F4C # GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <W>	: "Ὤ"	U1F6C # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <a>	: "ἄ"	U1F04 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <e>	: "ἔ"	U1F14 # GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <h>	: "ἤ"	U1F24 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <i>	: "ἴ"	U1F34 # GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <o>	: "ὄ"	U1F44 # GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <u>	: "ὔ"	U1F54 # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+<Multi_key> <mu> <rightsinglequotemark> <apostrophe> <w>	: "ὤ"	U1F64 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
+
+<Multi_key> <mu> <rightsinglequotemark> <grave> <A>			: "Ἂ"	U1F0A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <E>			: "Ἒ"	U1F1A # GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <H>			: "Ἢ"	U1F2A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <I>			: "Ἲ"	U1F3A # GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <O>			: "Ὂ"	U1F4A # GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <W>			: "Ὢ"	U1F6A # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <a>			: "ἂ"	U1F02 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <e>			: "ἒ"	U1F12 # GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <h>			: "ἢ"	U1F22 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <i>			: "ἲ"	U1F32 # GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <o>			: "ὂ"	U1F42 # GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <u>			: "ὒ"	U1F52 # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
+<Multi_key> <mu> <rightsinglequotemark> <grave> <w>			: "ὢ"	U1F62 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
+
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <A>	: "Ἆ"	U1F0E # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <H>	: "Ἦ"	U1F2E # GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <I>	: "Ἶ"	U1F3E # GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <W>	: "Ὦ"	U1F6E # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <a>	: "ἆ"	U1F06 # GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <h>	: "ἦ"	U1F26 # GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <i>	: "ἶ"	U1F36 # GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <u>	: "ὖ"	U1F56 # GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+<Multi_key> <mu> <rightsinglequotemark> <parenright> <w>	: "ὦ"	U1F66 # GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI
+
+
+
+<Multi_key> <mu> <leftsinglequotemark> <A>				: "Ἁ"	U1F09 # GREEK CAPITAL LETTER ALPHA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <E>				: "Ἑ"	U1F19 # GREEK CAPITAL LETTER EPSILON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <H>				: "Ἡ"	U1F29 # GREEK CAPITAL LETTER ETA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <I>				: "Ἱ"	U1F39 # GREEK CAPITAL LETTER IOTA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <O>				: "Ὁ"	U1F49 # GREEK CAPITAL LETTER OMICRON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <R>				: "Ῥ"	U1FEC # GREEK CAPITAL LETTER RHO WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <U>				: "Ὑ"	U1F59 # GREEK CAPITAL LETTER UPSILON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <W>				: "Ὡ"	U1F69 # GREEK CAPITAL LETTER OMEGA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <a>				: "ἁ"	U1F01 # GREEK SMALL LETTER ALPHA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <e>				: "ἑ"	U1F11 # GREEK SMALL LETTER EPSILON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <h>				: "ἡ"	U1F21 # GREEK SMALL LETTER ETA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <i>				: "ἱ"	U1F31 # GREEK SMALL LETTER IOTA WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <o>				: "ὁ"	U1F41 # GREEK SMALL LETTER OMICRON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <r>				: "ῥ"	U1FE5 # GREEK SMALL LETTER RHO WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <u>				: "ὑ"	U1F51 # GREEK SMALL LETTER UPSILON WITH DASIA
+<Multi_key> <mu> <leftsinglequotemark> <w>				: "ὡ"	U1F61 # GREEK SMALL LETTER OMEGA WITH DASIA
+
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <A>	: "Ἅ"	U1F0D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <E>	: "Ἕ"	U1F1D # GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <H>	: "Ἥ"	U1F2D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <I>	: "Ἵ"	U1F3D # GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <O>	: "Ὅ"	U1F4D # GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <U>	: "Ὕ"	U1F5D # GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <W>	: "Ὥ"	U1F6D # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <a>	: "ἅ"	U1F05 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <e>	: "ἕ"	U1F15 # GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <h>	: "ἥ"	U1F25 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <i>	: "ἵ"	U1F35 # GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <o>	: "ὅ"	U1F45 # GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <u>	: "ὕ"	U1F55 # GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <mu> <leftsinglequotemark> <apostrophe> <w>	: "ὥ"	U1F65 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
+
+<Multi_key> <mu> <leftsinglequotemark> <grave> <A>		: "Ἃ"	U1F0B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <E>		: "Ἓ"	U1F1B # GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <H>		: "Ἣ"	U1F2B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <I>		: "Ἳ"	U1F3B # GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <O>		: "Ὃ"	U1F4B # GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <U>		: "Ὓ"	U1F5B # GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <W>		: "Ὣ"	U1F6B # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <a>		: "ἃ"	U1F03 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <e>		: "ἓ"	U1F13 # GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <h>		: "ἣ"	U1F23 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <i>		: "ἳ"	U1F33 # GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <o>		: "ὃ"	U1F43 # GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <u>		: "ὓ"	U1F53 # GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <mu> <leftsinglequotemark> <grave> <w>		: "ὣ"	U1F63 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
+
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <A>	: "Ἇ"	U1F0F # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <H>	: "Ἧ"	U1F2F # GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <I>	: "Ἷ"	U1F3F # GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <U>	: "Ὗ"	U1F5F # GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <W>	: "Ὧ"	U1F6F # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <a>	: "ἇ"	U1F07 # GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <u>	: "ἧ"	U1F27 # GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <i>	: "ἷ"	U1F37 # GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <u>	: "ὗ"	U1F57 # GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI
+<Multi_key> <mu> <leftsinglequotemark> <parenright> <w>	: "ὧ"	U1F67 # GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI
+
+
+
+<Multi_key> <mu> <bar> <A>	: "ᾼ"	U1FBC # GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <H>	: "ῌ"	U1FCC # GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <W>	: "ῼ"	U1FFC # GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <a>	: "ᾳ"	U1FB3 # GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <h>	: "ῃ"	U1FC3 # GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <w>	: "ῳ"	U1FF3 # GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <K>	: "Ϗ"   U03CF # GREEK CAPITAL KAI SYMBOL
+<Multi_key> <mu> <bar> <k>	: "ϗ"   U03D7 # GREEK KAI SYMBOL
+
+<Multi_key> <mu> <bar> <apostrophe> <a>	: "ᾴ"	U1FB4 # GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <apostrophe> <h>	: "ῄ"	U1FC4 # GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <apostrophe> <w>	: "ῴ"	U1FF4 # GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <parenright> <a>	: "ᾷ"	U1FB7 # GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <parenright> <h>	: "ῇ"	U1FC7 # GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <parenright> <w>	: "ῷ"	U1FF7 # GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <grave> <a>	: "ᾲ"	U1FB2 # GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <grave> <h>	: "ῂ"	U1FC2 # GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <grave> <w>	: "ῲ"	U1FF2 # GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <leftsinglequotemark> <A>	: "ᾉ"	U1F89 # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <H>	: "ᾙ"	U1F99 # GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <W>	: "ᾩ"	U1FA9 # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <a>	: "ᾁ"	U1F81 # GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <h>	: "ᾑ"	U1F91 # GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <w>	: "ᾡ"	U1FA1 # GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <A>	: "ᾍ"	U1F8D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <H>	: "ᾝ"	U1F9D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <W>	: "ᾭ"	U1FAD # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <a>	: "ᾅ"	U1F85 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <h>	: "ᾕ"	U1F95 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <apostrophe> <w>	: "ᾥ"	U1FA5 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <A>	: "ᾏ"	U1F8F # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <H>	: "ᾟ"	U1F9F # GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <W>	: "ᾯ"	U1FAF # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <a>	: "ᾇ"	U1F87 # GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <h>	: "ᾗ"	U1F97 # GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <parenright> <w>	: "ᾧ"	U1FA7 # GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <A>	: "ᾋ"	U1F8B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <H>	: "ᾛ"	U1F9B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <W>	: "ᾫ"	U1FAB # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <a>	: "ᾃ"	U1F83 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <h>	: "ᾓ"	U1F93 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <leftsinglequotemark> <grave> <w>	: "ᾣ"	U1FA3 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <rightsinglequotemark> <A>	: "ᾈ"	U1F88 # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <H>	: "ᾘ"	U1F98 # GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <W>	: "ᾨ"	U1FA8 # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <a>	: "ᾀ"	U1F80 # GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <h>	: "ᾐ"	U1F90 # GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <w>	: "ᾠ"	U1FA0 # GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <A>	: "ᾌ"	U1F8C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <H>	: "ᾜ"	U1F9C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <W>	: "ᾬ"	U1FAC # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <a>	: "ᾄ"	U1F84 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <h>	: "ᾔ"	U1F94 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <apostrophe> <w>	: "ᾤ"	U1FA4 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <A>	: "ᾎ"	U1F8E # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <H>	: "ᾞ"	U1F9E # GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <W>	: "ᾮ"	U1FAE # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <a>	: "ᾆ"	U1F86 # GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <h>	: "ᾖ"	U1F96 # GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <parenright> <w>	: "ᾦ"	U1FA6 # GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <A>	: "ᾊ"	U1F8A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <H>	: "ᾚ"	U1F9A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <W>	: "ᾪ"	U1FAA # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <a>	: "ᾂ"	U1F82 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <h>	: "ᾒ"	U1F92 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <mu> <bar> <rightsinglequotemark> <grave> <w>	: "ᾢ"	U1FA2 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+
+# abovecomma
+
+<Multi_key> <rightsinglequotemark> <mu> <A>					: "Ἀ"	U1F08 # GREEK CAPITAL LETTER ALPHA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <E>					: "Ἐ"	U1F18 # GREEK CAPITAL LETTER EPSILON WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <H>					: "Ἠ"	U1F28 # GREEK CAPITAL LETTER ETA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <I>					: "Ἰ"	U1F38 # GREEK CAPITAL LETTER IOTA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <O>					: "Ὀ"	U1F48 # GREEK CAPITAL LETTER OMICRON WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <W>					: "Ὠ"	U1F68 # GREEK CAPITAL LETTER OMEGA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <a>					: "ἀ"	U1F00 # GREEK SMALL LETTER ALPHA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <e>					: "ἐ"	U1F10 # GREEK SMALL LETTER EPSILON WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <h>					: "ἠ"	U1F20 # GREEK SMALL LETTER ETA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <i>					: "ἰ"	U1F30 # GREEK SMALL LETTER IOTA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <o>					: "ὀ"	U1F40 # GREEK SMALL LETTER OMICRON WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <r>					: "ῤ"	U1FE4 # GREEK SMALL LETTER RHO WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <u>					: "ὐ"	U1F50 # GREEK SMALL LETTER UPSILON WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <w>					: "ὠ"	U1F60 # GREEK SMALL LETTER OMEGA WITH PSILI
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <A>	: "Ἄ"	U1F0C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <E>	: "Ἔ"	U1F1C # GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <H>	: "Ἤ"	U1F2C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <I>	: "Ἴ"	U1F3C # GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <W>	: "Ὤ"	U1F6C # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <O>	: "Ὄ"	U1F4C # GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <a>	: "ἄ"	U1F04 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <e>	: "ἔ"	U1F14 # GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <h>	: "ἤ"	U1F24 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <i>	: "ἴ"	U1F34 # GREEK SMALL LETTER IOTA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <w>	: "ὤ"	U1F64 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <o>	: "ὄ"	U1F44 # GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <apostrophe> <u>	: "ὔ"	U1F54 # GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <A>			: "Ἂ"	U1F0A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <E>			: "Ἒ"	U1F1A # GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <H>			: "Ἢ"	U1F2A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <I>			: "Ἲ"	U1F3A # GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <O>			: "Ὂ"	U1F4A # GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <W>			: "Ὢ"	U1F6A # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <a>			: "ἂ"	U1F02 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <e>			: "ἒ"	U1F12 # GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <h>			: "ἢ"	U1F22 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <i>			: "ἲ"	U1F32 # GREEK SMALL LETTER IOTA WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <o>			: "ὂ"	U1F42 # GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <u>			: "ὒ"	U1F52 # GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA
+<Multi_key> <rightsinglequotemark> <mu> <grave> <w>			: "ὢ"	U1F62 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA
+
+# abovereversedcomma
+
+<Multi_key> <leftsinglequotemark> <mu> <A>				: "Ἁ"	U1F09 # GREEK CAPITAL LETTER ALPHA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <E>				: "Ἑ"	U1F19 # GREEK CAPITAL LETTER EPSILON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <H>				: "Ἡ"	U1F29 # GREEK CAPITAL LETTER ETA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <I>				: "Ἱ"	U1F39 # GREEK CAPITAL LETTER IOTA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <O>				: "Ὁ"	U1F49 # GREEK CAPITAL LETTER OMICRON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <R>				: "Ῥ"	U1FEC # GREEK CAPITAL LETTER RHO WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <U>				: "Ὑ"	U1F59 # GREEK CAPITAL LETTER UPSILON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <W>				: "Ὡ"	U1F69 # GREEK CAPITAL LETTER OMEGA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <a>				: "ἁ"	U1F01 # GREEK SMALL LETTER ALPHA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <e>				: "ἑ"	U1F11 # GREEK SMALL LETTER EPSILON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <h>				: "ἡ"	U1F21 # GREEK SMALL LETTER ETA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <i>				: "ἱ"	U1F31 # GREEK SMALL LETTER IOTA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <o>				: "ὁ"	U1F41 # GREEK SMALL LETTER OMICRON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <r>				: "ῥ"	U1FE5 # GREEK SMALL LETTER RHO WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <u>				: "ὑ"	U1F51 # GREEK SMALL LETTER UPSILON WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <w>				: "ὡ"	U1F61 # GREEK SMALL LETTER OMEGA WITH DASIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <A>	: "Ἅ"	U1F0D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <E>	: "Ἕ"	U1F1D # GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <H>	: "Ἥ"	U1F2D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <I>	: "Ἵ"	U1F3D # GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <O>	: "Ὅ"	U1F4D # GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <U>	: "Ὕ"	U1F5D # GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <W>	: "Ὥ"	U1F6D # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <a>	: "ἅ"	U1F05 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <e>	: "ἕ"	U1F15 # GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <h>	: "ἥ"	U1F25 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <i>	: "ἵ"	U1F35 # GREEK SMALL LETTER IOTA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <o>	: "ὅ"	U1F45 # GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <u>	: "ὕ"	U1F55 # GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <apostrophe> <w>	: "ὥ"	U1F65 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <A>		: "Ἃ"	U1F0B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <E>		: "Ἓ"	U1F1B # GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <H>		: "Ἣ"	U1F2B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <I>		: "Ἳ"	U1F3B # GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <O>		: "Ὃ"	U1F4B # GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <U>		: "Ὓ"	U1F5B # GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <W>		: "Ὣ"	U1F6B # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <a>		: "ἃ"	U1F03 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <e>		: "ἓ"	U1F13 # GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <h>		: "ἣ"	U1F23 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <i>		: "ἳ"	U1F33 # GREEK SMALL LETTER IOTA WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <o>		: "ὃ"	U1F43 # GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <u>		: "ὓ"	U1F53 # GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA
+<Multi_key> <leftsinglequotemark> <mu> <grave> <w>		: "ὣ"	U1F63 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA
+
+# breve
+
+<Multi_key> <parenleft> <mu> <A>	: "Ᾰ"	U1FB8	# GREEK CAPITAL LETTER ALPHA WITH VRACHY
+<Multi_key> <parenleft> <mu> <a>	: "ᾰ"	U1FB0	# GREEK SMALL LETTER ALPHA WITH VRACHY
+<Multi_key> <parenleft> <mu> <I>	: "Ῐ"	U1FD8	# GREEK CAPITAL LETTER IOTA WITH VRACHY
+<Multi_key> <parenleft> <mu> <i>	: "ῐ"	U1FD0	# GREEK SMALL LETTER IOTA WITH VRACHY
+<Multi_key> <parenleft> <mu> <U>	: "Ῠ"	U1FE8	# GREEK CAPITAL LETTER UPSILON WITH VRACHY
+<Multi_key> <parenleft> <mu> <u>	: "ῠ"	U1FE0	# GREEK SMALL LETTER UPSILON WITH VRACHY
+
+# invertedbreve
+
+<Multi_key> <parenright> <mu> <a>				: "ᾶ"	U1FB6 # GREEK SMALL LETTER ALPHA WITH PERISPOMENI
+<Multi_key> <parenright> <mu> <h>				: "ῆ"	U1FC6 # GREEK SMALL LETTER ETA WITH PERISPOMENI
+<Multi_key> <parenright> <mu> <i>				: "ῖ"	U1FD6 # GREEK SMALL LETTER IOTA WITH PERISPOMENI
+<Multi_key> <parenright> <mu> <idiaeresis>		: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <parenright> <mu> <u>				: "ῦ"	U1FE6 # GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+<Multi_key> <parenright> <mu> <udiaeresis>		: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <parenright> <mu> <w>				: "ῶ"	U1FF6 # GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+<Multi_key> <parenright> <mu> <quotedbl> <i>	: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <parenright> <mu> <quotedbl> <u>	: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <parenright> <quotedbl> <mu> <i>	: "ῗ"	U1FD7 # GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI
+<Multi_key> <parenright> <quotedbl> <mu> <u>	: "ῧ"	U1FE7 # GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI
+
+# iota
+
+<Multi_key> <bar> <mu> <A>	: "ᾼ"	U1FBC # GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <H>	: "ῌ"	U1FCC # GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <W>	: "ῼ"	U1FFC # GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <a>	: "ᾳ"	U1FB3 # GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <h>	: "ῃ"	U1FC3 # GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <w>	: "ῳ"	U1FF3 # GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <K>	: "Ϗ"   U03CF # GREEK CAPITAL KAI SYMBOL
+<Multi_key> <bar> <mu> <k>	: "ϗ"   U03D7 # GREEK KAI SYMBOL
+
+<Multi_key> <bar> <mu> <apostrophe> <a>	: "ᾴ"	U1FB4 # GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <apostrophe> <h>	: "ῄ"	U1FC4 # GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <apostrophe> <w>	: "ῴ"	U1FF4 # GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <parenright> <a>	: "ᾷ"	U1FB7 # GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <parenright> <h>	: "ῇ"	U1FC7 # GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <parenright> <w>	: "ῷ"	U1FF7 # GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <grave> <a>	: "ᾲ"	U1FB2 # GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <grave> <h>	: "ῂ"	U1FC2 # GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <grave> <w>	: "ῲ"	U1FF2 # GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <leftsinglequotemark> <A>	: "ᾉ"	U1F89 # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <H>	: "ᾙ"	U1F99 # GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <W>	: "ᾩ"	U1FA9 # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <a>	: "ᾁ"	U1F81 # GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <h>	: "ᾑ"	U1F91 # GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <w>	: "ᾡ"	U1FA1 # GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <A>	: "ᾍ"	U1F8D # GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <H>	: "ᾝ"	U1F9D # GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <W>	: "ᾭ"	U1FAD # GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <a>	: "ᾅ"	U1F85 # GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <h>	: "ᾕ"	U1F95 # GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <apostrophe> <w>	: "ᾥ"	U1FA5 # GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <A>	: "ᾏ"	U1F8F # GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <H>	: "ᾟ"	U1F9F # GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <W>	: "ᾯ"	U1FAF # GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <a>	: "ᾇ"	U1F87 # GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <h>	: "ᾗ"	U1F97 # GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <parenright> <w>	: "ᾧ"	U1FA7 # GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <A>	: "ᾋ"	U1F8B # GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <H>	: "ᾛ"	U1F9B # GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <W>	: "ᾫ"	U1FAB # GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <a>	: "ᾃ"	U1F83 # GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <h>	: "ᾓ"	U1F93 # GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <leftsinglequotemark> <grave> <w>	: "ᾣ"	U1FA3 # GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <rightsinglequotemark> <A>	: "ᾈ"	U1F88 # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <H>	: "ᾘ"	U1F98 # GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <W>	: "ᾨ"	U1FA8 # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <a>	: "ᾀ"	U1F80 # GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <h>	: "ᾐ"	U1F90 # GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <w>	: "ᾠ"	U1FA0 # GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <A>	: "ᾌ"	U1F8C # GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <H>	: "ᾜ"	U1F9C # GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <W>	: "ᾬ"	U1FAC # GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <a>	: "ᾄ"	U1F84 # GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <h>	: "ᾔ"	U1F94 # GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <apostrophe> <w>	: "ᾤ"	U1FA4 # GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <A>	: "ᾎ"	U1F8E # GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <H>	: "ᾞ"	U1F9E # GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <W>	: "ᾮ"	U1FAE # GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <a>	: "ᾆ"	U1F86 # GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <h>	: "ᾖ"	U1F96 # GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <parenright> <w>	: "ᾦ"	U1FA6 # GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI
+
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <A>	: "ᾊ"	U1F8A # GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <H>	: "ᾚ"	U1F9A # GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <W>	: "ᾪ"	U1FAA # GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <a>	: "ᾂ"	U1F82 # GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <h>	: "ᾒ"	U1F92 # GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+<Multi_key> <bar> <mu> <rightsinglequotemark> <grave> <w>	: "ᾢ"	U1FA2 # GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI
+
+# stroke
+
+<Multi_key> <slash> <mu> <r>	: "ϼ"	U03FC # GREEK RHO WITH STROKE SYMBOL
+
+# macron
+
+<Multi_key> <minus> <mu> <A>	: "Ᾱ"	U1FB9	# GREEK CAPITAL LETTER ALPHA WITH MACRON
+<Multi_key> <minus> <mu> <I>	: "Ῑ"	U1FD9	# GREEK CAPITAL LETTER IOTA WITH MACRON
+<Multi_key> <minus> <mu> <U>	: "Ῡ"	U1FE9	# GREEK CAPITAL LETTER UPSILON WITH MACRON
+<Multi_key> <minus> <mu> <a>	: "ᾱ"	U1FB1	# GREEK SMALL LETTER ALPHA WITH MACRON
+<Multi_key> <minus> <mu> <i>	: "ῑ"	U1FD1	# GREEK SMALL LETTER IOTA WITH MACRON
+<Multi_key> <minus> <mu> <u>	: "ῡ"	U1FE1	# GREEK SMALL LETTER UPSILON WITH MACRON
+
+# belowmacron
+
+<Multi_key> <underscore> <mu> <a>	: "⍶"	U2376 # APL FUNCTIONAL SYMBOL ALPHA UNDERBAR
+<Multi_key> <underscore> <mu> <e>	: "⍷"	U2377 # APL FUNCTIONAL SYMBOL EPSILON UNDERBAR
+<Multi_key> <underscore> <mu> <i>	: "⍸"	U2378 # APL FUNCTIONAL SYMBOL IOTA UNDERBAR
+<Multi_key> <underscore> <mu> <w>	: "⍹"	U2379 # APL FUNCTIONAL SYMBOL OMEGA UNDERBAR
+<Multi_key> <underscore> <mu> <D>	: "⍙"	U2359 # APL FUNCTIONAL SYMBOL DELTA UNDERBAR
